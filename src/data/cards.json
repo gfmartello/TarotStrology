@@ -1,0 +1,178 @@
+[
+  {
+    "card": "The Fool",
+    "planet": "Uranus",
+    "sign": "N/A",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/fool.jpg"
+  },
+  {
+    "card": "The Magician",
+    "planet": "Mercury",
+    "sign": "N/A",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/magician.jpg"
+  },
+  {
+    "card": "The High Priestess",
+    "planet": "Moon",
+    "sign": "N/A",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/high-priestess.jpg"
+  },
+  {
+    "card": "The Empress",
+    "planet": "Venus",
+    "sign": "N/A",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/empress.jpg"
+  },
+  {
+    "card": "The Emperor",
+    "planet": "N/A",
+    "sign": "Aries",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/emperor.jpg"
+  },
+  {
+    "card": "The Hierophant",
+    "planet": "N/A",
+    "sign": "Taurus",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/hierophant.jpg"
+  },
+  {
+    "card": "The Lovers",
+    "planet": "N/A",
+    "sign": "Gemini",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/lovers.jpg"
+  },
+  {
+    "card": "The Chariot",
+    "planet": "N/A",
+    "sign": "Cancer",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/chariot.jpg"
+  },
+  {
+    "card": "Strength",
+    "planet": "N/A",
+    "sign": "Leo",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/strength.jpg"
+  },
+  {
+    "card": "The Hermit",
+    "planet": "N/A",
+    "sign": "Virgo",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/hermit.jpg"
+  },
+  {
+    "card": "Wheel of Fortune",
+    "planet": "Jupiter",
+    "sign": "N/A",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/wheel.jpg"
+  },
+  {
+    "card": "Justice",
+    "planet": "N/A",
+    "sign": "Libra",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/justice.jpg"
+  },
+  {
+    "card": "The Hanged Man",
+    "planet": "Neptune",
+    "sign": "N/A",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/hanged-man.jpg"
+  },
+  {
+    "card": "Death",
+    "planet": "N/A",
+    "sign": "Scorpio",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/death.jpg"
+  },
+  {
+    "card": "Temperance",
+    "planet": "N/A",
+    "sign": "Sagittarius",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/temperance.jpg"
+  },
+  {
+    "card": "The Devil",
+    "planet": "N/A",
+    "sign": "Capricorn",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/devil.jpg"
+  },
+  {
+    "card": "The Tower",
+    "planet": "Mars",
+    "sign": "N/A",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/tower.jpg"
+  },
+  {
+    "card": "The Star",
+    "planet": "N/A",
+    "sign": "Aquarius",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/star.jpg"
+  },
+  {
+    "card": "The Moon",
+    "planet": "N/A",
+    "sign": "Pisces",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/moon.jpg"
+  },
+  {
+    "card": "The Sun",
+    "planet": "Sun",
+    "sign": "N/A",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/sun.jpg"
+  },
+  {
+    "card": "Judgment",
+    "planet": "Pluto",
+    "sign": "N/A",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/judgment.jpg"
+  },
+  {
+    "card": "The World",
+    "planet": "Saturn",
+    "sign": "N/A",
+    "category": "Major Arcana",
+    "description": "description",
+    "img": "./images/world.jpg"
+  }
+]

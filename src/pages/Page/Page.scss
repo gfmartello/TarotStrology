@@ -1,0 +1,21 @@
+@use '../../styles/partials/mixins' as *;
+
+.main {
+  &__button {
+    border: none;
+    background: #FFFFFF;
+    &-img {
+      height: 40vh;
+    }
+  }
+  &__card {
+    display: flex;
+    justify-content: space-evenly;
+    &--active {
+      display: none;
+    }
+    &-img {
+      height: 40vh;
+    }
+  }
+}
