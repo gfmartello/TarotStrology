@@ -1,0 +1,52 @@
+[
+  {
+    "planet": "Sun ☉",
+    "sign": "Leo ♌︎",
+    "description": "Represents the core essence of self, vitality, ego, self-expression, creativity, and the life force."
+  },
+  {
+    "planet": "Moon ☽",
+    "sign": "Cancer ♋︎",
+    "description": "Symbolizes emotions, instincts, nurturing, intuition, the subconscious mind, and our emotional responses."
+  },
+  {
+    "planet": "Mercury ☿",
+    "sign": "Gemini ♊︎, Virgo ♍︎",
+    "description": "Signifies communication, intellect, logic, learning, adaptability, and the exchange of information."
+  },
+  {
+    "planet": "Venus ♀",
+    "sign": "Taurus ♉︎, Libra ♎︎",
+    "description": "Represents love, beauty, harmony, relationships, attraction, pleasure, and the appreciation of art and aesthetics."
+  },
+  {
+    "planet": "Mars ♂",
+    "sign": "Aries ♈︎, Scorpio ♏︎",
+    "description": "Symbolizes energy, action, passion, drive, assertiveness, courage, and the pursuit of goals and desires."
+  },
+  {
+    "planet": "Jupiter ♃",
+    "sign": "Sagittarius ♐︎, Pisces ♓️",
+    "description": "Signifies expansion, growth, abundance, wisdom, optimism, generosity, and the search for meaning and higher knowledge."
+  },
+  {
+    "planet": "Saturn ♄",
+    "sign": "Capricorn ♑︎, Aquarius ♒︎",
+    "description": "Represents structure, discipline, responsibility, limitations, boundaries, endurance, and the lessons of life."
+  },
+  {
+    "planet": "Uranus ♅",
+    "sign": "Aquarius ♒︎",
+    "description": "Symbolizes innovation, rebellion, individuality, freedom, sudden changes, intuition, and breaking away from tradition."
+  },
+  {
+    "planet": "Neptune ♆",
+    "sign": "Pisces ♓️",
+    "description": "Signifies imagination, spirituality, intuition, dreams, illusions, creativity, and the dissolution of boundaries."
+  },
+  {
+    "planet": "Pluto ♇",
+    "sign": "Scorpio ♏︎",
+    "description": "Represents transformation, power, regeneration, intensity, hidden forces, rebirth, and the process of profound change."
+  }
+]

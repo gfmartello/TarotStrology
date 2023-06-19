@@ -1,0 +1,62 @@
+[
+  {
+    "sign": "Aries ♈︎",
+    "planet": "Mars ♂",
+    "description": "Aries is a bold and fiery sign known for its courageous nature. They are trailblazers, natural leaders, and have a pioneering spirit. Aries individuals are enthusiastic, independent, and driven by a desire for adventure and new experiences."
+  },
+  {
+    "sign": "Taurus ♉︎",
+    "planet": "Venus ♀",
+    "description": "Taurus is an earthy and grounded sign known for its strong will and determination. They value stability, security, and the comforts of life. Taurus individuals are reliable, patient, and have a strong sense of loyalty and practicality."
+  },
+  {
+    "sign": "Gemini ♊︎",
+    "planet": "Mercury ☿",
+    "description": "Gemini is an airy and versatile sign known for its intellectual curiosity and quick wit. They are excellent communicators, adaptable, and enjoy socializing and gathering information. Gemini individuals are sociable, expressive, and love to engage in lively conversations."
+  },
+  {
+    "sign": "Cancer ♋︎",
+    "planet": "Moon ☽",
+    "description": "Cancer is a sensitive and nurturing sign known for its deep emotional connections and strong intuition. They are deeply caring, compassionate, and value family and home. Cancer individuals are protective, intuitive, and have a natural ability to provide emotional support."
+  },
+  {
+    "sign": "Leo ♌︎",
+    "planet": "Sun ☉",
+    "description": "Leo is a charismatic and expressive sign known for its confidence and warmth. They have a flair for the dramatic, love being in the spotlight, and possess natural leadership abilities. Leo individuals are generous, passionate, and have a strong desire for recognition and admiration."
+  },
+  {
+    "sign": "Virgo ♍︎",
+    "planet": "Mercury ☿",
+    "description": "Virgo is a practical and detail-oriented sign known for its analytical and organized nature. They possess a strong sense of responsibility, precision, and a desire for perfection. Virgo individuals are hardworking, reliable, and have a natural talent for problem-solving."
+  },
+  {
+    "sign": "Libra ♎︎",
+    "planet": "Venus ♀",
+    "description": "Libra is a harmonious and diplomatic sign known for its emphasis on balance, fairness, and relationships. They have a natural charm, a keen eye for beauty, and value cooperation and compromise. Libra individuals are cooperative, social, and strive for harmony in their interactions with others."
+  },
+  {
+    "sign": "Scorpio ♏︎",
+    "planet": "Mars ♂",
+    "description": "Scorpio is an intense and passionate sign known for its deep emotional depth and transformative nature. They have a magnetic presence, strong intuition, and are highly perceptive. Scorpio individuals are determined, loyal, and possess great strength and resilience."
+  },
+  {
+    "sign": "Sagittarius ♐︎",
+    "planet": "Jupiter ♃",
+    "description": "Sagittarius is an adventurous and optimistic sign known for its love of freedom, exploration, and philosophical pursuits. They have a thirst for knowledge, a love for travel, and a desire to expand their horizons. Sagittarius individuals are adventurous, open-minded, and have a great sense of humor."
+  },
+  {
+    "sign": "Capricorn ♑︎",
+    "planet": "Saturn ♄",
+    "description": "Capricorn is an ambitious and disciplined sign known for its strong work ethic and practical approach to life. They value structure, responsibility, and long-term goals. Capricorn individuals are determined, reliable, and have a natural ability to plan and organize."
+  },
+  {
+    "sign": "Aquarius ♒︎",
+    "planet": "Saturn ♄",
+    "description": "Aquarius is an innovative and intellectually oriented sign known for its humanitarian values and unconventional thinking. They are forward-thinking, independent, and have a deep concern for social justice. Aquarius individuals are open-minded, progressive, and value their individuality."
+  },
+  {
+    "sign": "Pisces ♓︎",
+    "planet": "Jupiter ♃",
+    "description": "Pisces is a compassionate and dreamy sign known for its deep sensitivity and spiritual nature. They have a rich imagination, strong intuition, and are highly empathetic. Pisces individuals are artistic, intuitive, and often find solace in creative and mystical pursuits."
+  }
+]

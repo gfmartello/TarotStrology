@@ -11,11 +11,14 @@
   &__card {
     display: flex;
     justify-content: space-evenly;
-    &--active {
-      display: none;
-    }
+    // &--active {
+    //   display: none;
+    // }
     &-img {
       height: 40vh;
+    }
+    &--column2 {
+      width: 50vw;
     }
   }
 }
