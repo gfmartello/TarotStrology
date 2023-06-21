@@ -155,6 +155,7 @@
   },
   {
     "card": "Ace of Wands",
+    "sign": "Aries ♈︎, Leo ♌︎, Sagittarius ♐︎",
     "category": "Minor Arcana",
     "description": "You are filled with creative potential and new beginnings. Channel your passion and take bold action.",
     "img": "./images/Wands01.jpg"
@@ -164,6 +165,7 @@
     "planet": "Mars ♂",
     "sign": "Aries ♈︎",
     "category": "Minor Arcana",
+    "element": "fire",
     "description": "You stand at a crossroads, ready to make decisions and expand your horizons. Trust your intuition and embrace the path that calls to you.",
     "img": "./images/Wands02.jpg"
   },
@@ -233,6 +235,7 @@
   },
   {
     "card": "Page of Wands",
+    "sign": "Aries ♈︎, Leo ♌︎, Sagittarius ♐︎",
     "category": "Court Arcana",
     "description": "You embody youthful enthusiasm, curiosity, and creativity. Embrace new beginnings and explore your passions with a sense of adventure.",
     "img": "./images/Wands11.jpg"
@@ -260,6 +263,7 @@
   },
   {
     "card": "Ace of Cups",
+    "sign": "Cancer ♋︎, Scorpio ♏︎, Pisces ♓️",
     "category": "Minor Arcana",
     "description": "You experience a surge of emotional energy and new beginnings in love and relationships. Open your heart to love and compassion.",
     "img": "./images/Cups01.jpg"
@@ -338,6 +342,7 @@
   },
   {
     "card": "Page of Cups",
+    "sign": "Cancer ♋︎, Scorpio ♏︎, Pisces ♓️",
     "category": "Court Arcana",
     "description": "You are open to new emotions and creative inspiration. Embrace your intuition and allow your heart to guide you on a path of self-expression.",
     "img": "./images/Cups11.jpg"
@@ -365,6 +370,7 @@
   },
   {
     "card": "Ace of Swords",
+    "sign": "Libra ♎︎, Gemini ♊︎, Aquarius ♒︎",
     "category": "Minor Arcana",
     "description": "You gain mental clarity and embrace new ideas. Tap into the power of your intellect and communicate with precision.",
     "img": "./images/Swords01.jpg"
@@ -443,6 +449,7 @@
   },
   {
     "card": "Page of Swords",
+    "sign": "Libra ♎︎, Gemini ♊︎, Aquarius ♒︎",
     "category": "Court Arcana",
     "description": "You are intellectually curious, with a thirst for knowledge and new ideas. Embrace your analytical mind and communicate with clarity.",
     "img": "./images/Swords11.jpg"
@@ -470,6 +477,7 @@
   },
   {
     "card": "Ace of Pentacles",
+    "sign": "Capricorn ♑︎, Virgo ♍︎, Taurus ♉︎",
     "category": "Minor Arcana",
     "description": "You are presented with new opportunities for abundance and prosperity. Embrace the potential for material growth and security.",
     "img": "./images/Pents01.jpg"
@@ -548,6 +556,7 @@
   },
   {
     "card": "Page of Pentacles",
+    "sign": "Capricorn ♑︎, Virgo ♍︎, Taurus ♉︎",
     "category": "Court Arcana",
     "description": "You are eager to learn and explore opportunities for growth and abundance. Embrace practicality and lay a solid foundation for your future.",
     "img": "./images/Pents11.jpg"

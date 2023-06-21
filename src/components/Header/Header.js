@@ -5,6 +5,7 @@ import planets from '../../data/planets.json'
 import signs from '../../data/signs.json'
 import { useState } from 'react'
 import { Link } from 'react-router-dom';
+// set height for dropdown menu list - try overflow-hidden or other methods
 
 const Header = () => {
   const [cardsOpen, setCardsOpen] = useState(false);
@@ -34,11 +35,13 @@ const Header = () => {
   ))
 
   const planetsList = planets.map((planet) => (
-    <li
-      key={planet.planet}
-      className='nav__planets--item'>
-      {planet.planet}
-    </li>
+    <Link to={`/planet/${planet.planet.split(' ')[0]}`}>
+      <li
+        key={planet.planet}
+        className='nav__planets--item'>
+        {planet.planet}
+      </li>
+    </Link>
   ))
 
   const signsList = signs.map((sign) => (
@@ -52,9 +55,9 @@ const Header = () => {
   return (
     <header className='header'>
       <Link to='/' className='header__title'>
-        <h1>TAROTSTROLOGY</h1>
+        <h1 className='header__title'>TAROTSTROLOGY ☿</h1>
       </Link>
-      <nav classname={cardsOpen ? 'nav__cards--active' : 'nav__cards'}>
+      <nav className={cardsOpen ? 'nav__cards--active' : 'nav__cards'}>
         <h3 className='nav__title' onClick={handleCards}>CARDS</h3>
         {
           cardsOpen ? (
@@ -66,7 +69,9 @@ const Header = () => {
         <h3 className='nav__title' onClick={handlePlanets}>PLANETS</h3>
         {
           planetsOpen ? (
-            <ul className='nav__planets--list'>{planetsList}</ul>
+            <ul className='nav__planets--list'>
+              {planetsList}
+            </ul>
           ) : null
         }
       </nav>
@@ -77,6 +82,9 @@ const Header = () => {
             <ul className='nav__signs--list'>{signsList}</ul>) : null
         }
       </nav>
+      <Link className='nav__title' to='/mycard'>
+        <h3 className='nav__title'>WHAT'S MY CARD?</h3>
+      </Link>
     </header>
   );
 };
