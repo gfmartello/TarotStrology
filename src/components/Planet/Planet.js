@@ -14,7 +14,6 @@ const Planet = () => {
   return (
     <section className='planet'>
       <h1>{activePlanet.planet}</h1>
-      <p>{activePlanet.description}</p>
       <span>
         <Link className='planet__sign' to={`/sign/${activePlanet.sign}`}>
           {activePlanet.sign}
@@ -24,7 +23,16 @@ const Planet = () => {
           {activePlanet.sign2}
         </Link>
       </span>
-      <img className='planet__img' />
+      <article className='planet__container'>
+        <div className='planet__column'>
+          <p>{activePlanet.description}</p>
+          <img className='planet__img' src={activePlanet.planetimg} />
+        </div>
+        <div className='planet__column'>
+          <p>{activePlanet.myth}</p>
+          <img className='planet__img' src={activePlanet.mythimg} />
+        </div>
+      </article>
     </section>
   );
 };

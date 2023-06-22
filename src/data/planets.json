@@ -2,56 +2,86 @@
   {
     "planet": "Sun ☉",
     "sign": "Leo ♌︎",
-    "description": "The Sun represents our core essence, vitality, and individuality. It symbolizes self-expression, leadership, and creativity. It governs our ego, willpower, and the basic sense of self. The Sun's placement in the birth chart signifies our life purpose, personal identity, and the areas where we seek recognition and fulfillment. It radiates warmth, energy, and confidence, illuminating our path and influencing our overall character."
+    "description": "The Sun represents our core essence, vitality, and individuality. It symbolizes self-expression, leadership, and creativity. It governs our ego, willpower, and the basic sense of self. The Sun's placement in the birth chart signifies our life purpose, personal identity, and the areas where we seek recognition and fulfillment. It radiates warmth, energy, and confidence, illuminating our path and influencing our overall character.",
+    "myth": "In mythologies worldwide, the Sun holds a position of great significance. Often personified as a powerful deity, the Sun represents vitality, light, and life itself. Across cultures, it is associated with gods such as Helios in Greek mythology and Surya in Hindu mythology. The Sun is often depicted as a radiant charioteer or a divine being who illuminates the world, symbolizing warmth, consciousness, and the source of all energy.",
+    "planetimg": "https://www.nasa.gov/sites/default/files/thumbnails/image/oct_1_2015_flare_02.jpg",
+    "mythimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Wall_painting_-_Dionysos_with_Helios_and_Aphrodite_-_Pompeii_%28VII_2_16%29_-_Napoli_MAN_9449_-_02.jpg/2560px-Wall_painting_-_Dionysos_with_Helios_and_Aphrodite_-_Pompeii_%28VII_2_16%29_-_Napoli_MAN_9449_-_02.jpg"
   },
   {
     "planet": "Moon ☽",
     "sign": "Cancer ♋︎",
-    "description": "The Moon embodies our emotions, instincts, and nurturing qualities. It symbolizes our inner self, subconscious mind, and emotional responses. The Moon governs our feelings, moods, and instincts, reflecting our intuitive nature and our need for security and comfort. It influences our emotional well-being, receptivity, and relationship with the feminine aspects of life. The Moon's placement in the birth chart reveals our emotional patterns, instincts, and how we experience and express our feelings."
+    "description": "The Moon embodies our emotions, instincts, and nurturing qualities. It symbolizes our inner self, subconscious mind, and emotional responses. The Moon governs our feelings, moods, and instincts, reflecting our intuitive nature and our need for security and comfort. It influences our emotional well-being, receptivity, and relationship with the feminine aspects of life. The Moon's placement in the birth chart reveals our emotional patterns, instincts, and how we experience and express our feelings.",
+    "myth": "Revered in numerous mythologies, the Moon embodies the enigmatic qualities of the night sky. Often depicted as a goddess, such as Selene in Greek mythology or Chang'e in Chinese mythology, the Moon represents femininity, intuition, and the ever-changing nature of existence. It is associated with the tides, emotions, and the mysteries of the subconscious, evoking a sense of enchantment, reflection, and the cycles of life.",
+    "planetimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/1200px-FullMoon2010.jpg",
+    "mythimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wall_painting_-_Selene_and_Endymion_-_Pompeii_%28VI_9_6-7%29_-_Napoli_MAN_9240.jpg/1920px-Wall_painting_-_Selene_and_Endymion_-_Pompeii_%28VI_9_6-7%29_-_Napoli_MAN_9240.jpg"
   },
   {
     "planet": "Mercury ☿",
     "sign": "Gemini ♊︎",
     "sign2": "Virgo ♍︎",
-    "description": "Mercury represents communication, intellect, and mental processes. It governs our thinking patterns, reasoning abilities, and how we perceive and process information. Mercury influences our language skills, writing, speaking, and overall cognitive functions. It rules over curiosity, adaptability, and the way we learn and exchange ideas. The placement of Mercury in the birth chart indicates our communication style, learning approach, and intellectual strengths."
+    "description": "Mercury represents communication, intellect, and mental processes. It governs our thinking patterns, reasoning abilities, and how we perceive and process information. Mercury influences our language skills, writing, speaking, and overall cognitive functions. It rules over curiosity, adaptability, and the way we learn and exchange ideas. The placement of Mercury in the birth chart indicates our communication style, learning approach, and intellectual strengths.",
+    "myth": "Mercury, known as Hermes in Greek mythology, is a fleet-footed messenger of the gods and a cunning trickster. As the god of communication, travel, and commerce, Mercury embodies quick thinking, eloquence, and cleverness. Renowned for his agility, he serves as a mediator and facilitator, guiding mortals and immortals alike between realms and fostering connections between individuals and communities.",
+    "planetimg": "https://spaceplace.nasa.gov/review/all-about-mercury/mercury3.en.jpg",
+    "mythimg": "https://i.etsystatic.com/25001612/r/il/905520/4267448038/il_fullxfull.4267448038_dewr.jpg"
   },
   {
     "planet": "Venus ♀",
     "sign": "Taurus ♉︎",
     "sign2": "Libra ♎︎",
-    "description": "Venus symbolizes love, relationships, beauty, and harmony. It governs our capacity for affection, attraction, and our aesthetic tastes. Venus influences our values, social interactions, and how we form connections with others. It rules over romance, sensuality, and the enjoyment of life's pleasures. The placement of Venus in the birth chart reveals our approach to love, relationships, and the things that bring us joy and contentment."
+    "description": "Venus symbolizes love, relationships, beauty, and harmony. It governs our capacity for affection, attraction, and our aesthetic tastes. Venus influences our values, social interactions, and how we form connections with others. It rules over romance, sensuality, and the enjoyment of life's pleasures. The placement of Venus in the birth chart reveals our approach to love, relationships, and the things that bring us joy and contentment.",
+    "myth": "Venus, known as Aphrodite in Greek mythology, is the goddess of love, beauty, and desire. Often portrayed as a seductive and alluring figure, she embodies passion, harmony, and aesthetic appreciation. Venus inspires romantic love, creativity, and the pursuit of pleasure, symbolizing the transformative power of attraction, affection, and artistic expression.",
+    "planetimg": "https://media.npr.org/assets/img/2021/06/02/venus_sq-c4e92edf0b03a9fc7d844429ea07b9df42ac7350-s1100-c50.jpg",
+    "mythimg": "https://i.natgeofe.com/n/ffb1b220-9ad7-4f79-ab6f-d236c6d397df/08-love-and-beauty_3x2.jpg"
   },
   {
     "planet": "Mars ♂",
     "sign": "Aries ♈︎",
     "sign2": "Scorpio ♏︎",
-    "description": "Mars embodies energy, action, passion, and assertiveness. It symbolizes our drive, ambition, and physical vitality. Mars governs our desires, motivation, and how we assert ourselves in the world. It rules over our courage, determination, and the ability to take risks. Mars' placement in the birth chart indicates our approach to conflict, and how we channel our energy into various pursuits."
+    "description": "Mars embodies energy, action, passion, and assertiveness. It symbolizes our drive, ambition, and physical vitality. Mars governs our desires, motivation, and how we assert ourselves in the world. It rules over our courage, determination, and the ability to take risks. Mars' placement in the birth chart indicates our approach to conflict, and how we channel our energy into various pursuits.",
+    "myth": "Mars, named after the Roman god of war, is a symbol of courage, strength, and assertiveness. In mythology, Mars represents the warrior archetype, embodying resilience, determination, and the pursuit of victory. He inspires action, passion, and the ability to overcome obstacles, symbolizing the inherent drive and ambition within individuals.",
+    "planetimg": "https://solarsystem.nasa.gov/system/stellar_items/image_files/6_mars.jpg",
+    "mythimg": "https://eclecticlightdotcom.files.wordpress.com/2017/05/rubensconsequencesofwar.jpg?w=1200"
   },
   {
     "planet": "Jupiter ♃",
     "sign": "Sagittarius ♐︎",
     "sign2": "Pisces ♓️",
-    "description": "Jupiter represents expansion, growth, and wisdom. It symbolizes our aspirations, abundance, and belief systems. Jupiter governs our luck, optimism, and the pursuit of knowledge and higher truth. It rules over generosity, faith, and the ability to see the bigger picture. The placement of Jupiter in the birth chart reveals our personal philosophy, areas of growth, and the opportunities that may arise in our lives."
+    "description": "Jupiter represents expansion, growth, and wisdom. It symbolizes our aspirations, abundance, and belief systems. Jupiter governs our luck, optimism, and the pursuit of knowledge and higher truth. It rules over generosity, faith, and the ability to see the bigger picture. The placement of Jupiter in the birth chart reveals our personal philosophy, areas of growth, and the opportunities that may arise in our lives.",
+    "myth": "Jupiter, known as Zeus in Greek mythology, is the king of the gods and a symbol of wisdom, abundance, and expansion. Portrayed as a majestic and powerful figure, Jupiter embodies growth, optimism, and the pursuit of higher knowledge and spirituality. He represents the ability to see the bigger picture, bestowing luck, generosity, and guidance on those who seek his favor.",
+    "planetimg": "https://www.nasa.gov/sites/default/files/jupiter_1.jpg",
+    "mythimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rene_Antoine_Houasse_-_Minerva_and_the_Triumph_of_Jupiter%2C_1706.jpg/800px-Rene_Antoine_Houasse_-_Minerva_and_the_Triumph_of_Jupiter%2C_1706.jpg"
   },
   {
     "planet": "Saturn ♄",
     "sign": "Capricorn ♑︎",
     "sign2": "Aquarius ♒︎",
-    "description": "Saturn embodies structure, discipline, and responsibility. It symbolizes our limitations, boundaries, and the lessons we must learn in life. Saturn governs our sense of duty, ambition, and the need for security. It rules over hard work, perseverance, and the development of practical skills. The placement of Saturn in the birth chart indicates areas where we may face challenges, our ability to handle responsibilities, and the lessons we must learn to achieve personal growth."
+    "description": "Saturn embodies structure, discipline, and responsibility. It symbolizes our limitations, boundaries, and the lessons we must learn in life. Saturn governs our sense of duty, ambition, and the need for security. It rules over hard work, perseverance, and the development of practical skills. The placement of Saturn in the birth chart indicates areas where we may face challenges, our ability to handle responsibilities, and the lessons we must learn to achieve personal growth.",
+    "myth": "Saturn, named after the Roman god of time and harvest, represents discipline, structure, and responsibility. Often depicted as an elderly figure, Saturn symbolizes hard work, endurance, and the lessons learned through experience. He embodies the concept of limitations, boundaries, and the necessity for practicality and long-term planning, emphasizing the rewards that come from dedication and perseverance.",
+    "planetimg": "https://solarsystem.nasa.gov/system/stellar_items/image_files/38_saturn_1600x900.jpg",
+    "mythimg": "https://upload.wikimedia.org/wikipedia/commons/8/82/Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29.jpg"
   },
   {
     "planet": "Uranus ♅",
     "sign": "Aquarius ♒︎",
-    "description": "Uranus represents innovation, rebellion, and individuality. It symbolizes change, freedom, and the breaking of traditional norms. Uranus governs our originality, intuition, and the quest for personal freedom. It rules over sudden insights, unconventional thinking, and the pursuit of progress. The placement of Uranus in the birth chart reveals our unique qualities, areas of unpredictability, and the potential for revolution and transformation."
+    "description": "Uranus represents innovation, rebellion, and individuality. It symbolizes change, freedom, and the breaking of traditional norms. Uranus governs our originality, intuition, and the quest for personal freedom. It rules over sudden insights, unconventional thinking, and the pursuit of progress. The placement of Uranus in the birth chart reveals our unique qualities, areas of unpredictability, and the potential for revolution and transformation.",
+    "myth": "Uranus, named after the Greek god of the sky, is associated with innovation, individuality, and rebellion. In mythology, Uranus represents the primal forces of creation and unpredictability. He embodies the urge for freedom, original thinking, and the pursuit of progressive ideals, inspiring individuals to break away from conventional norms and embrace their unique identities.",
+    "planetimg": "https://www.nasa.gov/sites/default/files/thumbnails/image/stsci-01gwqdqcs9rf0dxmrvq49k4k3b.png",
+    "mythimg": "https://eclecticlightdotcom.files.wordpress.com/2020/06/schinkeluranusdanceofstars.jpg"
   },
   {
     "planet": "Neptune ♆",
     "sign": "Pisces ♓️",
-    "description": "Neptune embodies imagination, spirituality, and intuition. It symbolizes our dreams, illusions, and the transcendent realms of consciousness. Neptune governs our empathy, creativity, and the desire for spiritual connection. It rules over inspiration, artistic pursuits, and the dissolution of boundaries. The placement of Neptune in the birth chart indicates our imaginative abilities, areas of idealism, and the potential for spiritual growth and enlightenment."
+    "description": "Neptune embodies imagination, spirituality, and intuition. It symbolizes our dreams, illusions, and the transcendent realms of consciousness. Neptune governs our empathy, creativity, and the desire for spiritual connection. It rules over inspiration, artistic pursuits, and the dissolution of boundaries. The placement of Neptune in the birth chart indicates our imaginative abilities, areas of idealism, and the potential for spiritual growth and enlightenment.",
+    "myth": "Neptune, named after the Roman god of the sea, holds sway over the depths of the subconscious, spirituality, and imagination. Often depicted as a mystical figure, Neptune embodies the mysteries of the ocean and the realm of dreams. He inspires creativity, intuition, and a sense of enchantment, symbolizing the exploration of the unseen and the pursuit of spiritual transcendence.",
+    "planetimg": "https://www.nasa.gov/sites/default/files/thumbnails/image/pia01492-main.jpg",
+    "mythimg": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/10534/39804/main-image"
   },
   {
     "planet": "Pluto ♇",
     "sign": "Scorpio ♏︎",
-    "description": "Pluto represents transformation, power, and rebirth. It symbolizes the cycles of life, death, and regeneration. Pluto governs our deep-seated desires, subconscious forces, and the process of profound transformation. It rules over the realm of the unconscious, intensity, and the uncovering of hidden truths. The placement of Pluto in the birth chart reveals our capacity for personal growth, areas of inner power, and the potential for profound change and rebirth."
+    "description": "Pluto represents transformation, power, and rebirth. It symbolizes the cycles of life, death, and regeneration. Pluto governs our deep-seated desires, subconscious forces, and the process of profound transformation. It rules over the realm of the unconscious, intensity, and the uncovering of hidden truths. The placement of Pluto in the birth chart reveals our capacity for personal growth, areas of inner power, and the potential for profound change and rebirth.",
+    "myth": "Pluto, named after the Roman god of the underworld, represents transformation, power, and the cycles of life and death. As a figure associated with the realm of the dead, Pluto symbolizes the process of regeneration and the exploration of the hidden aspects of existence. He embodies the forces of profound change, inner transformation, and the uncovering of deep truths, inviting individuals to confront their shadows and embrace personal growth.",
+    "planetimg": "https://www.nasa.gov/sites/default/files/thumbnails/image/crop_p_color2_enhanced_release_small.png",
+    "mythimg": "https://www.liveabout.com/thmb/JYWMUGKstS-dsgoBjKr6d-VtDrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-112189911-58b0f3ab5f9b5860463f58eb.jpg"
   }
 ]
