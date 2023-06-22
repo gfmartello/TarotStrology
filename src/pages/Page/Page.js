@@ -3,12 +3,7 @@ import './Page.scss'
 import cardback from '../../assets/cardback.jpg'
 import cards from '../../data/cards.json'
 import { useState } from 'react'
-// give same keys to all objects, display none to n/a categories
-// for NavBar, you can .find object and set active card
-
-// use name of component as key
-// create planet & sign components, path goes to key (name)
-// use useParams on component (planet/sign)
+import { Link } from 'react-router-dom';
 
 const Page = () => {
   const [randomCard, setRandomCard] = useState('')

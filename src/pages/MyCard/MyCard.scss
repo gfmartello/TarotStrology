@@ -1,1 +1,32 @@
 @use '../../styles/partials/mixins' as *;
+
+.my-card {
+  display: flex;
+  flex-direction: column;
+  padding-left: 5%;
+  padding-right: 5%;
+
+  &__form {
+    margin-bottom: 5%;
+  }
+
+  &__results {
+    @include tablet {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+    }
+  }
+
+  &__img {
+    height: 50vh;
+    width: 30vh;
+    margin-bottom: 5%;
+  }
+
+  &__info {
+    @include tablet {
+      width: 50vw;
+    }
+  }
+}

@@ -5,7 +5,7 @@ import planets from '../../data/planets.json'
 import signs from '../../data/signs.json'
 import { useState } from 'react'
 import { Link } from 'react-router-dom';
-// set height for dropdown menu list - try overflow-hidden or other methods
+// how can I make the NavBar not push down the rest of the page, and make its height limited and scrollable?
 
 const Header = () => {
   const [cardsOpen, setCardsOpen] = useState(false);
@@ -27,29 +27,33 @@ const Header = () => {
   }
 
   const cardsList = cards.map((card) => (
-    <li
-      key={card.card}
-      className='nav__cards--item'>
-      {card.card}
-    </li>
+    <Link className='nav__list-item' to={`/card/${card.key}`}>
+      <li
+        key={card.card}
+        className='nav__list-item'>
+        {card.card}
+      </li>
+    </Link>
   ))
 
   const planetsList = planets.map((planet) => (
-    <Link to={`/planet/${planet.planet.split(' ')[0]}`}>
+    <Link className='nav__list-item' to={`/planet/${planet.planet.split(' ')[0]}`}>
       <li
         key={planet.planet}
-        className='nav__planets--item'>
+        className='nav__list-item'>
         {planet.planet}
       </li>
     </Link>
   ))
 
   const signsList = signs.map((sign) => (
-    <li
-      key={sign.sign}
-      className='nav__signs--item'>
-      {sign.sign}
-    </li>
+    <Link className='nav__list-item' to={`/sign/${sign.sign.split(' ')[0]}`}>
+      <li
+        key={sign.sign}
+        className='nav__list-item'>
+        {sign.sign}
+      </li>
+    </Link>
   ))
 
   return (
@@ -57,11 +61,13 @@ const Header = () => {
       <Link to='/' className='header__title'>
         <h1 className='header__title'>TAROTSTROLOGY ☿</h1>
       </Link>
-      <nav className={cardsOpen ? 'nav__cards--active' : 'nav__cards'}>
+      <nav className={cardsOpen ? 'nav__active' : 'nav__cards'}>
         <h3 className='nav__title' onClick={handleCards}>CARDS</h3>
         {
           cardsOpen ? (
-            <ul className='nav__cards--list'>{cardsList}</ul>
+            <ul className='nav__list'>
+              {cardsList}
+            </ul>
           ) : null
         }
       </nav>
@@ -69,7 +75,7 @@ const Header = () => {
         <h3 className='nav__title' onClick={handlePlanets}>PLANETS</h3>
         {
           planetsOpen ? (
-            <ul className='nav__planets--list'>
+            <ul className='nav__list'>
               {planetsList}
             </ul>
           ) : null
@@ -79,7 +85,10 @@ const Header = () => {
         <h3 className='nav__title' onClick={handleSigns}>SIGNS</h3>
         {
           signsOpen ? (
-            <ul className='nav__signs--list'>{signsList}</ul>) : null
+            <ul className='nav__list'>
+              {signsList}
+            </ul>
+          ) : null
         }
       </nav>
       <Link className='nav__title' to='/mycard'>

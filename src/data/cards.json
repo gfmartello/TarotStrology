@@ -1,585 +1,655 @@
 [
   {
+    "key": "0",
     "card": "The Fool",
     "planet": "Uranus ♅",
     "category": "Major Arcana",
     "description": "You stand on the precipice of a new journey, full of excitement and unlimited potential. Embrace the unknown with a sense of adventure and trust in your instincts.",
-    "img": "./images/fool.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/RWS_Tarot_00_Fool.jpg"
   },
   {
+    "key": "1",
     "card": "The Magician",
     "planet": "Mercury ☿",
     "category": "Major Arcana",
     "description": "You possess incredible power and potential. Tap into your inner resources and channel your will to manifest your desires. You have the ability to turn ideas into reality.",
-    "img": "./images/magician.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/RWS_Tarot_01_Magician.jpg"
   },
   {
+    "key": "2",
     "card": "The High Priestess",
     "planet": "Moon ☽",
     "category": "Major Arcana",
     "description": "You are a vessel of intuition and deep wisdom. Trust your inner voice and explore the mysteries of your subconscious mind. Allow your intuition to guide you on your path.",
-    "img": "./images/high-priestess.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/RWS_Tarot_02_High_Priestess.jpg"
   },
   {
+    "key": "3",
     "card": "The Empress",
     "planet": "Venus ♀",
     "category": "Major Arcana",
     "description": "You are a nurturing and abundant force in the world. Embrace your creativity and bring forth new life and growth. Find balance and harmony in your connections with others.",
-    "img": "./images/empress.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d2/RWS_Tarot_03_Empress.jpg"
   },
   {
+    "key": "4",
     "card": "The Emperor",
     "sign": "Aries ♈︎",
     "category": "Major Arcana",
     "description": "You possess strength, leadership, and authority. Take charge of your life and establish order and structure. Use your power responsibly and with integrity.",
-    "img": "./images/emperor.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/RWS_Tarot_04_Emperor.jpg"
   },
   {
+    "key": "5",
     "card": "The Hierophant",
     "sign": "Taurus ♉︎",
     "category": "Major Arcana",
     "description": "You seek spiritual wisdom and guidance. Embrace tradition and connect with a higher power or spiritual teachings. Seek meaning and understanding in the world around you.",
-    "img": "./images/hierophant.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/RWS_Tarot_05_Hierophant.jpg"
   },
   {
+    "key": "6",
     "card": "The Lovers",
     "sign": "Gemini ♊︎",
     "category": "Major Arcana",
     "description": "You are faced with choices and decisions regarding matters of the heart. Embrace love, harmony, and connection. Follow your heart and choose what resonates with your true desires.",
-    "img": "./images/lovers.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/TheLovers.jpg"
   },
   {
+    "key": "7",
     "card": "The Chariot",
     "sign": "Cancer ♋︎",
     "category": "Major Arcana",
     "description": "You are in control and ready to move forward. Harness your determination and willpower to overcome challenges and reach your goals. Trust in your abilities and keep moving ahead.",
-    "img": "./images/chariot.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/RWS_Tarot_07_Chariot.jpg"
   },
   {
+    "key": "8",
     "card": "Strength",
     "sign": "Leo ♌︎",
     "category": "Major Arcana",
     "description": "You possess inner strength and courage. Tap into your resilience and face challenges with grace and composure. Use your personal power to overcome obstacles and find balance.",
-    "img": "./images/strength.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/RWS_Tarot_08_Strength.jpg"
   },
   {
+    "key": "9",
     "card": "The Hermit",
     "sign": "Virgo ♍︎",
     "category": "Major Arcana",
     "description": "You seek solitude and introspection. Take time for self-reflection and seek inner wisdom. Trust your inner light to guide you on your path of self-discovery.",
-    "img": "./images/hermit.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4d/RWS_Tarot_09_Hermit.jpg"
   },
   {
+    "key": "10",
     "card": "Wheel of Fortune",
     "planet": "Jupiter ♃",
     "category": "Major Arcana",
     "description": "You are in the midst of cycles and changes. Embrace the ebb and flow of life and trust in the universe's plan. Find opportunity in unexpected turns of fate.",
-    "img": "./images/wheel.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg"
   },
   {
+    "key": "11",
     "card": "Justice",
     "sign": "Libra ♎︎",
     "category": "Major Arcana",
     "description": "You seek fairness and truth. Uphold principles of justice and balance in your actions. Make decisions with impartiality and integrity.",
-    "img": "./images/justice.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/RWS_Tarot_11_Justice.jpg"
   },
   {
+    "key": "12",
     "card": "The Hanged Man",
     "planet": "Neptune ♆",
     "category": "Major Arcana",
     "description": "You are in a state of suspension and surrender. Embrace the power of surrendering control and gain a new perspective. Trust that a greater understanding will come.",
-    "img": "./images/hanged-man.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/RWS_Tarot_12_Hanged_Man.jpg"
   },
   {
+    "key": "13",
     "card": "Death",
     "sign": "Scorpio ♏︎",
     "category": "Major Arcana",
     "description": "You face endings and transformation. Embrace the process of letting go and make space for new beginnings. Embrace the cycle of life and embrace the lessons of change.",
-    "img": "./images/death.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/RWS_Tarot_13_Death.jpg"
   },
   {
+    "key": "14",
     "card": "Temperance",
     "sign": "Sagittarius ♐︎",
     "category": "Major Arcana",
     "description": "You seek harmony and balance in your life. Practice moderation and find a middle ground. Blend opposing forces to create a state of equilibrium.",
-    "img": "./images/temperance.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/RWS_Tarot_14_Temperance.jpg"
   },
   {
+    "key": "15",
     "card": "The Devil",
     "sign": "Capricorn ♑︎",
     "category": "Major Arcana",
     "description": "You confront your own limitations and attachments. Break free from unhealthy patterns and beliefs. Embrace your personal power and release what no longer serves you.",
-    "img": "./images/devil.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/RWS_Tarot_15_Devil.jpg"
   },
   {
+    "key": "16",
     "card": "The Tower",
     "planet": "Mars ♂",
     "category": "Major Arcana",
     "description": "You experience sudden upheaval and change. Embrace the opportunity for transformation and growth. Sometimes destruction is necessary for new foundations to be built.",
-    "img": "./images/tower.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/RWS_Tarot_16_Tower.jpg"
   },
   {
+    "key": "17",
     "card": "The Star",
     "sign": "Aquarius ♒︎",
     "category": "Major Arcana",
     "description": "You are filled with hope, inspiration, and optimism. Embrace a sense of renewed faith and follow your guiding star. Trust in the universe's divine plan.",
-    "img": "./images/star.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_17_Star.jpg"
   },
   {
+    "key": "18",
     "card": "The Moon",
     "sign": "Pisces ♓️",
     "category": "Major Arcana",
     "description": "You navigate the realms of the subconscious and intuition. Embrace the mystery and delve into your dreams and emotions. Trust your instincts and find guidance in the shadows.",
-    "img": "./images/moon.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/RWS_Tarot_18_Moon.jpg"
   },
   {
+    "key": "19",
     "card": "The Sun",
     "planet": "Sun ☉",
     "category": "Major Arcana",
     "description": "You radiate joy, vitality, and positivity. Embrace your inner child and celebrate life's abundance. Bask in the light of your own authenticity and shine brightly.",
-    "img": "./images/sun.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/17/RWS_Tarot_19_Sun.jpg"
   },
   {
+    "key": "20",
     "card": "Judgment",
     "planet": "Pluto ♇",
     "category": "Major Arcana",
     "description": "You face a time of reflection and evaluation. Embrace self-awareness and personal growth. Rise above past mistakes and embrace new beginnings.",
-    "img": "./images/judgment.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dd/RWS_Tarot_20_Judgement.jpg"
   },
   {
+    "key": "21",
     "card": "The World",
     "planet": "Saturn ♄",
     "category": "Major Arcana",
     "description": "You have reached a state of completion and integration. Embrace your wholeness and celebrate your achievements. You are connected to the world and ready to embark on new journeys.",
-    "img": "./images/world.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/RWS_Tarot_21_World.jpg"
   },
   {
+    "key": "22",
     "card": "Ace of Wands",
-    "sign": "Aries ♈︎, Leo ♌︎, Sagittarius ♐︎",
     "category": "Minor Arcana",
     "description": "You are filled with creative potential and new beginnings. Channel your passion and take bold action.",
-    "img": "./images/Wands01.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Wands01.jpg"
   },
   {
+    "key": "23",
     "card": "Two of Wands",
     "planet": "Mars ♂",
     "sign": "Aries ♈︎",
     "category": "Minor Arcana",
     "element": "fire",
     "description": "You stand at a crossroads, ready to make decisions and expand your horizons. Trust your intuition and embrace the path that calls to you.",
-    "img": "./images/Wands02.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Wands02.jpg"
   },
   {
+    "key": "24",
     "card": "Three of Wands",
     "planet": "Sun ☉",
     "sign": "Aries ♈︎",
     "category": "Minor Arcana",
     "description": "You are experiencing progress and anticipation. Embrace opportunities on the horizon and step into the unknown with confidence.",
-    "img": "./images/Wands03.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Wands03.jpg"
   },
   {
+    "key": "25",
     "card": "Four of Wands",
     "planet": "Venus ♀",
     "sign": "Aries ♈︎",
     "category": "Minor Arcana",
     "description": "You celebrate harmony, stability, and joyful accomplishments. Embrace the unity and positive energy around you.",
-    "img": "./images/Wands04.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Wands04.jpg"
   },
   {
+    "key": "26",
     "card": "Five of Wands",
     "planet": "Saturn ♄",
     "sign": "Leo ♌︎",
     "category": "Minor Arcana",
     "description": "You face challenges and conflicts. Stand your ground, assert yourself, and find the strength to overcome obstacles.",
-    "img": "./images/Wands05.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Wands05.jpg"
   },
   {
+    "key": "27",
     "card": "Six of Wands",
     "planet": "Jupiter ♃",
     "sign": "Leo ♌︎",
     "category": "Minor Arcana",
     "description": "You celebrate victory and recognition. Embrace the acknowledgement of your efforts and enjoy the rewards of your success.",
-    "img": "./images/Wands06.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Wands06.jpg"
   },
   {
+    "key": "28",
     "card": "Seven of Wands",
     "planet": "Mars ♂",
     "sign": "Leo ♌︎",
     "category": "Minor Arcana",
     "description": "You stand your ground and defend your beliefs. Tap into your inner strength and assert yourself with courage.",
-    "img": "./images/Wands07.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Wands07.jpg"
   },
   {
+    "key": "29",
     "card": "Eight of Wands",
     "planet": "Mercury ☿",
     "sign": "Sagittarius ♐︎",
     "category": "Minor Arcana",
     "description": "You experience swift action and progress. Embrace the momentum and seize opportunities as they come your way.",
-    "img": "./images/Wands08.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Wands08.jpg"
   },
   {
+    "key": "30",
     "card": "Nine of Wands",
     "planet": "Moon ☽",
     "sign": "Sagittarius ♐︎",
     "category": "Minor Arcana",
     "description": "You embody resilience and determination. Persevere through challenges and draw on your inner strength to overcome obstacles.",
-    "img": "./images/Wands09.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tarot_Nine_of_Wands.jpg"
   },
   {
+    "key": "31",
     "card": "Ten of Wands",
     "planet": "Saturn ♄",
     "sign": "Sagittarius ♐︎",
     "category": "Minor Arcana",
     "description": "You carry heavy burdens and responsibilities. Assess your priorities and seek support to find balance and lighten your load.",
-    "img": "./images/Wands10.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Wands10.jpg"
   },
   {
+    "key": "32",
     "card": "Page of Wands",
-    "sign": "Aries ♈︎, Leo ♌︎, Sagittarius ♐︎",
     "category": "Court Arcana",
     "description": "You embody youthful enthusiasm, curiosity, and creativity. Embrace new beginnings and explore your passions with a sense of adventure.",
-    "img": "./images/Wands11.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Wands11.jpg"
   },
   {
+    "key": "33",
     "card": "Knight of Wands",
     "sign": "Sagittarius ♐︎",
     "category": "Court Arcana",
     "description": "You are driven by ambition, passion, and a thirst for adventure. Harness your energy and take bold action to pursue your goals.",
-    "img": "./images/Wands12.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/16/Wands12.jpg"
   },
   {
+    "key": "34",
     "card": "Queen of Wands",
     "sign": "Aries ♈︎",
     "category": "Court Arcana",
     "description": "You possess confidence, charisma, and leadership qualities. Embrace your inner fire and inspire others with your passion and determination.",
-    "img": "./images/Wands13.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Wands13.jpg"
   },
   {
+    "key": "35",
     "card": "King of Wands",
     "sign": "Leo ♌︎",
     "category": "Court Arcana",
     "description": "You exude natural leadership, vision, and authority. Tap into your entrepreneurial spirit and use your creativity to manifest your goals.",
-    "img": "./images/Wands14.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Wands14.jpg"
   },
   {
+    "key": "36",
     "card": "Ace of Cups",
-    "sign": "Cancer ♋︎, Scorpio ♏︎, Pisces ♓️",
     "category": "Minor Arcana",
     "description": "You experience a surge of emotional energy and new beginnings in love and relationships. Open your heart to love and compassion.",
-    "img": "./images/Cups01.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Cups01.jpg"
   },
   {
+    "key": "37",
     "card": "Two of Cups",
     "planet": "Venus ♀",
     "sign": "Cancer ♋︎",
     "category": "Minor Arcana",
     "description": "You forge deep connections and experience harmony in partnerships. Embrace the balance and mutual support in your relationships.",
-    "img": "./images/Cups02.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Cups02.jpg"
   },
   {
+    "key": "38",
     "card": "Three of Cups",
     "planet": "Mercury ☿",
     "sign": "Cancer ♋︎",
     "category": "Minor Arcana",
     "description": "You celebrate joy, friendship, and community. Embrace the bond with like-minded individuals and enjoy the moments of connection.",
-    "img": "./images/Cups03.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Cups03.jpg"
   },
   {
+    "key": "39",
     "card": "Four of Cups",
     "planet": "Moon ☽",
     "sign": "Cancer ♋︎",
     "category": "Minor Arcana",
     "description": "You reflect on your emotions and desires. Take a moment of introspection to reassess your priorities and find new inspiration.",
-    "img": "./images/Cups04.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/35/Cups04.jpg"
   },
   {
+    "key": "40",
     "card": "Five of Cups",
     "planet": "Mars ♂",
     "sign": "Scorpio ♏︎",
     "category": "Minor Arcana",
     "description": "You face loss, grief, or disappointment. Allow yourself to process emotions and seek healing and acceptance.",
-    "img": "./images/Cups05.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cups05.jpg"
   },
   {
+    "key": "41",
     "card": "Six of Cups",
     "planet": "Sun ☉",
     "sign": "Scorpio ♏︎",
     "category": "Minor Arcana",
     "description": "You embrace nostalgia, innocence, and fond memories. Tap into the joys of the past and cherish the connections you have made.",
-    "img": "./images/Cups06.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/17/Cups06.jpg"
   },
   {
+    "key": "42",
     "card": "Seven of Cups",
     "planet": "Venus ♀",
     "sign": "Scorpio ♏︎",
     "category": "Minor Arcana",
     "description": "You are presented with choices and dreams. Assess your options wisely and discern between fantasy and reality.",
-    "img": "./images/Cups07.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cups07.jpg"
   },
   {
+    "key": "43",
     "card": "Eight of Cups",
     "planet": "Saturn ♄",
     "sign": "Pisces ♓️",
     "category": "Minor Arcana",
     "description": "You embark on a journey of emotional retreat and soul-searching. Release what no longer serves you and seek deeper meaning.",
-    "img": "./images/Cups08.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Cups08.jpg"
   },
   {
+    "key": "44",
     "card": "Nine of Cups",
     "planet": "Jupiter ♃",
     "sign": "Pisces ♓️",
     "category": "Minor Arcana",
     "description": "You experience emotional fulfillment and contentment. Celebrate your wishes coming true and find true satisfaction.",
-    "img": "./images/Cups09.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cups09.jpg"
   },
   {
+    "key": "45",
     "card": "Ten of Cups",
     "planet": "Mars ♂",
     "sign": "Pisces ♓️",
     "category": "Minor Arcana",
     "description": "You embrace harmony, love, and domestic bliss. Revel in the joy of family and emotional fulfillment.",
-    "img": "./images/Cups10.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cups10.jpg"
   },
   {
+    "key": "46",
     "card": "Page of Cups",
-    "sign": "Cancer ♋︎, Scorpio ♏︎, Pisces ♓️",
     "category": "Court Arcana",
     "description": "You are open to new emotions and creative inspiration. Embrace your intuition and allow your heart to guide you on a path of self-expression.",
-    "img": "./images/Cups11.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Cups11.jpg"
   },
   {
+    "key": "47",
     "card": "Knight of Cups",
     "sign": "Pisces ♓️",
     "category": "Court Arcana",
     "description": "You embody romantic idealism, emotional depth, and artistic pursuits. Explore your passions and let your heart lead the way.",
-    "img": "./images/Cups12.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cups12.jpg"
   },
   {
+    "key": "48",
     "card": "Queen of Cups",
     "sign": "Cancer ♋︎",
     "category": "Court Arcana",
     "description": "You are compassionate, nurturing, and deeply intuitive. Embrace your emotional intelligence and provide support and healing to others.",
-    "img": "./images/Cups13.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cups13.jpg"
   },
   {
+    "key": "49",
     "card": "King of Cups",
     "sign": "Scorpio ♏︎",
     "category": "Court Arcana",
     "description": "You possess emotional maturity, wisdom, and empathy. Tap into your intuition and find balance between your heart and mind.",
-    "img": "./images/Cups14.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/04/Cups14.jpg"
   },
   {
+    "key": "50",
     "card": "Ace of Swords",
-    "sign": "Libra ♎︎, Gemini ♊︎, Aquarius ♒︎",
     "category": "Minor Arcana",
     "description": "You gain mental clarity and embrace new ideas. Tap into the power of your intellect and communicate with precision.",
-    "img": "./images/Swords01.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Swords01.jpg"
   },
   {
+    "key": "51",
     "card": "Two of Swords",
     "planet": "Moon ☽",
     "sign": "Libra ♎︎",
     "category": "Minor Arcana",
     "description": "You face decisions and the need for balance. Weigh your options and find a middle ground with thoughtful consideration.",
-    "img": "./images/Swords02.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Swords02.jpg"
   },
   {
+    "key": "52",
     "card": "Three of Swords",
     "planet": "Saturn ♄",
     "sign": "Libra ♎︎",
     "category": "Minor Arcana",
     "description": "You navigate heartbreak and emotional pain. Allow yourself to grieve and seek healing to move forward.",
-    "img": "./images/Swords03.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/Swords03.jpg"
   },
   {
+    "key": "53",
     "card": "Four of Swords",
     "planet": "Jupiter ♃",
     "sign": "Libra ♎︎",
     "category": "Minor Arcana",
     "description": "You find solace in rest and introspection. Take time for self-care and rejuvenation to regain mental clarity.",
-    "img": "./images/Swords04.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Swords04.jpg"
   },
   {
+    "key": "54",
     "card": "Five of Swords",
     "planet": "Venus ♀",
     "sign": "Aquarius ♒︎",
     "category": "Minor Arcana",
     "description": "You encounter conflict and tension. Choose your battles wisely and seek resolution with integrity.",
-    "img": "./images/Swords05.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/23/Swords05.jpg"
   },
   {
+    "key": "55",
     "card": "Six of Swords",
     "planet": "Mercury ☿",
     "sign": "Aquarius ♒︎",
     "category": "Minor Arcana",
     "description": "You embark on a journey of transition and healing. Leave the past behind and embrace a calmer state of mind.",
-    "img": "./images/Swords06.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/29/Swords06.jpg"
   },
   {
+    "key": "56",
     "card": "Seven of Swords",
     "planet": "Moon ☽",
     "sign": "Aquarius ♒︎",
     "category": "Minor Arcana",
     "description": "You navigate deceit and hidden motives. Stay vigilant and protect yourself from deception.",
-    "img": "./images/Swords07.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/34/Swords07.jpg"
   },
   {
+    "key": "57",
     "card": "Eight of Swords",
     "planet": "Jupiter ♃",
     "sign": "Gemini ♊︎",
     "category": "Minor Arcana",
     "description": "You feel restricted and trapped. Break free from self-imposed limitations and find liberation from negative thoughts.",
-    "img": "./images/Swords08.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Swords08.jpg"
   },
   {
+    "key": "58",
     "card": "Nine of Swords",
     "planet": "Mars ♂",
     "sign": "Gemini ♊︎",
     "category": "Minor Arcana",
     "description": "You experience anxiety and worry. Confront your fears and seek support to alleviate mental distress.",
-    "img": "./images/Swords09.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Swords09.jpg"
   },
   {
+    "key": "59",
     "card": "Ten of Swords",
     "planet": "Sun ☉",
     "sign": "Gemini ♊︎",
     "category": "Minor Arcana",
     "description": "You face an ending or betrayal. Embrace the opportunity for transformation and new beginnings.",
-    "img": "./images/Swords10.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Swords10.jpg"
   },
   {
+    "key": "60",
     "card": "Page of Swords",
-    "sign": "Libra ♎︎, Gemini ♊︎, Aquarius ♒︎",
     "category": "Court Arcana",
     "description": "You are intellectually curious, with a thirst for knowledge and new ideas. Embrace your analytical mind and communicate with clarity.",
-    "img": "./images/Swords11.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Swords11.jpg"
   },
   {
+    "key": "61",
     "card": "Knight of Swords",
     "sign": "Gemini ♊︎",
     "category": "Court Arcana",
     "description": "You are driven by truth, justice, and the pursuit of knowledge. Use your mental agility and assertiveness to champion your beliefs.",
-    "img": "./images/Swords12.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Swords12.jpg"
   },
   {
+    "key": "62",
     "card": "Queen of Swords",
     "sign": "Libra ♎︎",
     "category": "Court Arcana",
     "description": "You are independent, wise, and intellectually sharp. Embrace your discernment and make fair and insightful decisions.",
-    "img": "./images/Swords13.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Swords13.jpg"
   },
   {
+    "key": "63",
     "card": "King of Swords",
     "sign": "Aquarius ♒︎",
     "category": "Court Arcana",
     "description": "You embody authority, logic, and strategic thinking. Utilize your intellectual prowess to communicate with wisdom and objectivity.",
-    "img": "./images/Swords14.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/33/Swords14.jpg"
   },
   {
+    "key": "64",
     "card": "Ace of Pentacles",
-    "sign": "Capricorn ♑︎, Virgo ♍︎, Taurus ♉︎",
     "category": "Minor Arcana",
     "description": "You are presented with new opportunities for abundance and prosperity. Embrace the potential for material growth and security.",
-    "img": "./images/Pents01.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pents01.jpg"
   },
   {
+    "key": "65",
     "card": "Two of Pentacles",
     "planet": "Jupiter ♃",
     "sign": "Capricorn ♑︎",
     "category": "Minor Arcana",
     "description": "You find balance and adaptability in managing resources and priorities. Juggle multiple tasks with grace and flexibility.",
-    "img": "./images/Pents02.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Pents02.jpg"
   },
   {
+    "key": "66",
     "card": "Three of Pentacles",
     "planet": "Mars ♂",
     "sign": "Capricorn ♑︎",
     "category": "Minor Arcana",
     "description": "You collaborate with others and showcase your skills. Embrace teamwork and the rewards of dedicated effort.",
-    "img": "./images/Pents03.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pents03.jpg"
   },
   {
+    "key": "67",
     "card": "Four of Pentacles",
     "planet": "Sun ☉",
     "sign": "Capricorn ♑︎",
     "category": "Minor Arcana",
     "description": "You seek stability and security. Find a balance between saving and enjoying life's pleasures.",
-    "img": "./images/Pents04.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/35/Pents04.jpg"
   },
   {
+    "key": "68",
     "card": "Five of Pentacles",
     "planet": "Mercury ☿",
     "sign": "Taurus ♉︎",
     "category": "Minor Arcana",
     "description": "You experience financial challenges and insecurity. Seek support and resources to overcome difficulties.",
-    "img": "./images/Pents05.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pents05.jpg"
   },
   {
+    "key": "69",
     "card": "Six of Pentacles",
     "planet": "Moon ☽",
     "sign": "Taurus ♉︎",
     "category": "Minor Arcana",
     "description": "You embrace generosity and giving. Share your wealth and find fulfillment in acts of kindness.",
-    "img": "./images/Pents06.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Pents06.jpg"
   },
   {
+    "key": "70",
     "card": "Seven of Pentacles",
     "planet": "Saturn ♄",
     "sign": "Taurus ♉︎",
     "category": "Minor Arcana",
     "description": "You exercise patience and wait for the fruits of your labor. Trust in the timing of your efforts and have faith in your progress.",
-    "img": "./images/Pents07.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pents07.jpg"
   },
   {
+    "key": "71",
     "card": "Eight of Pentacles",
     "planet": "Sun ☉",
     "sign": "Virgo ♍︎",
     "category": "Minor Arcana",
     "description": "You dedicate yourself to hard work and craftsmanship. Master your skills and pursue excellence for long-term success.",
-    "img": "./images/Pents08.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pents08.jpg"
   },
   {
+    "key": "72",
     "card": "Nine of Pentacles",
     "planet": "Venus ♀",
     "sign": "Virgo ♍︎",
     "category": "Minor Arcana",
     "description": "You enjoy self-sufficiency and luxury. Revel in the rewards of personal achievement and abundance.",
-    "img": "./images/Pents09.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Pents09.jpg"
   },
   {
+    "key": "73",
     "card": "Ten of Pentacles",
     "planet": "Mercury ☿",
     "sign": "Virgo ♍︎",
     "category": "Minor Arcana",
     "description": "You experience prosperity and family wealth. Embrace the fulfillment of material and emotional needs.",
-    "img": "./images/Pents10.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pents10.jpg"
   },
   {
+    "key": "74",
     "card": "Page of Pentacles",
-    "sign": "Capricorn ♑︎, Virgo ♍︎, Taurus ♉︎",
     "category": "Court Arcana",
     "description": "You are eager to learn and explore opportunities for growth and abundance. Embrace practicality and lay a solid foundation for your future.",
-    "img": "./images/Pents11.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Pents11.jpg"
   },
   {
+    "key": "75",
     "card": "Knight of Pentacles",
     "sign": "Virgo ♍︎",
     "category": "Court Arcana",
     "description": "You are diligent, responsible, and focused on long-term goals. Stay committed to your path and make steady progress toward your aspirations.",
-    "img": "./images/Pents12.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Pents12.jpg"
   },
   {
+    "key": "76",
     "card": "Queen of Pentacles",
     "sign": "Capricorn ♑︎",
     "category": "Court Arcana",
     "description": "You embody practicality, abundance, and nurturing energy. Embrace your connection with the earth and create a harmonious home environment.",
-    "img": "./images/Pents13.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/Pents13.jpg"
   },
   {
+    "key": "77",
     "card": "King of Pentacles",
     "sign": "Taurus ♉︎",
     "category": "Court Arcana",
     "description": "You are prosperous, reliable, and possess a strong sense of material security. Utilize your financial wisdom and responsible management of resources.",
-    "img": "./images/Pents14.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Pents14.jpg"
   }
 ]

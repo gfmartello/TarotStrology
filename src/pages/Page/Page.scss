@@ -8,6 +8,9 @@
   &__button {
     border: none;
     background: #FFFFFF;
+    &:hover {
+      cursor: pointer;
+    }
     &-img {
       height: 40vh;
     }

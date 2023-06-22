@@ -1,3 +1,4 @@
+import './MyCard.scss'
 import React from 'react';
 import { useState } from 'react';
 import cards from '../../data/cards.json'
@@ -8,17 +9,18 @@ const MyCard = () => {
 
   const birthdayFunction = (birthday) => {
     const sign = birthday.split(' ')[0]
-    const signCards = json.filter(item => 
+    const signCards = json.filter(item =>
       item.sign?.includes(sign)
     )
     setBirthdayCard(signCards)
   }
+  console.log(birthdayCard.img)
 
   return (
     <section className='my-card'>
       <h3 className='my-card__title'>WHAT'S MY CARD?</h3>
       <form className='my-card__form'>
-        <select className='my-card__select' value={birthdayCard} onChange={e => birthdayFunction (e.target.value)}>
+        <select className='my-card__select' value={birthdayCard} onChange={e => birthdayFunction(e.target.value)}>
           <option value='select'>Select your birthday</option>
           <option>Aries (Mar 21 - Apr 20)</option>
           <option>Taurus (Apr 21 - May 20)</option>
@@ -36,7 +38,17 @@ const MyCard = () => {
       </form>
       {
         birthdayCard.length ? birthdayCard.map(item =>
-        <img src={item.img} />) : ''
+          <article className='my-card__results'>
+            <img className='my-card__img' src={item.img} />
+            <div className='my-card__info'>
+              <h3>{item.card}</h3>
+              <p>{item.description}</p>
+              <p>{item.category}</p>
+              <p>{item.planet}</p>
+              <p>{item.sign}</p>
+            </div>
+          </article>
+        ) : ''
       }
     </section>
   );

@@ -21,6 +21,7 @@
 
     &:hover {
       color: indigo;
+      cursor: pointer;
     }
   }
 }
@@ -33,43 +34,24 @@
 
     &:hover {
       color: indigo;
+      cursor: pointer;
     }
   }
 
-  &__cards {
+  &__list {
+    padding-inline-start: 0;
+    height: 15vw;
+    overflow: scroll;
 
-    &--list {
-      padding-inline-start: 0;
-    }
-
-    &--item {
+    &-item {
       text-align: center;
+      text-decoration: none;
       list-style-type: none;
-    }
+      color: black;
 
-  }
-
-  &__planets {
-
-    &--list {
-      padding-inline-start: 0;
-    }
-
-    &--item {
-      text-align: center;
-      list-style-type: none;
-    }
-  }
-
-  &__signs {
-
-    &--list {
-      padding-inline-start: 0;
-    }
-
-    &--item {
-      text-align: center;
-      list-style-type: none;
+      &:hover {
+        color: indigo;
+      }
     }
   }
 }
