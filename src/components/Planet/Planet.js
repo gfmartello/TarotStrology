@@ -1,4 +1,4 @@
-import './Planet.js'
+import './Planet.scss'
 import React from 'react';
 import { useParams, Link } from 'react-router-dom';
 import planets from '../../data/planets.json'
@@ -15,7 +15,15 @@ const Planet = () => {
     <section className='planet'>
       <h1>{activePlanet.planet}</h1>
       <p>{activePlanet.description}</p>
-      <span>Associated sign: {activePlanet.sign}</span>
+      <span>
+        <Link className='planet__sign' to={`/sign/${activePlanet.sign}`}>
+          {activePlanet.sign}
+        </Link>
+        <br />
+        <Link className='planet__sign' to={`/sign/${activePlanet.sign2}`}>
+          {activePlanet.sign2}
+        </Link>
+      </span>
       <img className='planet__img' />
     </section>
   );

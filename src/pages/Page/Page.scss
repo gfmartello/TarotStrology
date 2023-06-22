@@ -5,29 +5,63 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
   &__button {
     border: none;
     background: #FFFFFF;
+
     &:hover {
       cursor: pointer;
     }
+
     &-img {
       height: 40vh;
     }
   }
+
   &__card {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+
     @include tablet {
       flex-direction: row;
     }
+
     &-img {
       height: 40vh;
       margin-right: 1.25rem;
     }
+
     &--column2 {
       width: 50vw;
+    }
+
+    &--title {
+      color: black;
+      text-decoration: none;
+
+      &:hover {
+        color: indigo;
+      }
+    }
+
+    &--planet {
+      color: black;
+      text-decoration: none;
+
+      &:hover {
+        color: indigo;
+      }
+    }
+
+    &--sign {
+      color: black;
+      text-decoration: none;
+
+      &:hover {
+        color: indigo;
+      }
     }
   }
 }

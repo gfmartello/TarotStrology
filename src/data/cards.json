@@ -5,6 +5,7 @@
     "planet": "Uranus ♅",
     "category": "Major Arcana",
     "description": "You stand on the precipice of a new journey, full of excitement and unlimited potential. Embrace the unknown with a sense of adventure and trust in your instincts.",
+    "indepth": "The Fool is a card of new beginnings and unlimited potential. It represents the start of a journey, full of optimism and curiosity. The Fool is associated with spontaneity, innocence, and a willingness to take risks. It encourages embracing the unknown and trusting in the universe. This card reminds us to follow our hearts and pursue our passions, even if it means stepping into the uncharted territory.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/RWS_Tarot_00_Fool.jpg"
   },
   {
@@ -13,6 +14,7 @@
     "planet": "Mercury ☿",
     "category": "Major Arcana",
     "description": "You possess incredible power and potential. Tap into your inner resources and channel your will to manifest your desires. You have the ability to turn ideas into reality.",
+    "indepth": "The Magician is a card of manifestation and personal power. It symbolizes the ability to harness the resources and talents at our disposal to create positive change. The Magician represents confidence, skill, and the conscious use of willpower. It signifies the potential to bring ideas into reality and to transform our lives through focused intention and action. This card reminds us that we have the ability to shape our own destiny.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/RWS_Tarot_01_Magician.jpg"
   },
   {
@@ -21,6 +23,7 @@
     "planet": "Moon ☽",
     "category": "Major Arcana",
     "description": "You are a vessel of intuition and deep wisdom. Trust your inner voice and explore the mysteries of your subconscious mind. Allow your intuition to guide you on your path.",
+    "indepth": "The High Priestess is a card of mystery, intuition, and inner wisdom. She represents the deep, intuitive knowledge that resides within us. The High Priestess is connected to the subconscious mind and encourages us to listen to our inner voice and trust our instincts. This card signifies hidden knowledge, spiritual growth, and the exploration of our inner depths. It urges us to seek balance and find harmony between our conscious and subconscious selves.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/RWS_Tarot_02_High_Priestess.jpg"
   },
   {
@@ -29,6 +32,7 @@
     "planet": "Venus ♀",
     "category": "Major Arcana",
     "description": "You are a nurturing and abundant force in the world. Embrace your creativity and bring forth new life and growth. Find balance and harmony in your connections with others.",
+    "indepth": "The Empress is a card of abundance, nurturing, and creativity. She represents the nurturing aspects of femininity and the power of creation. The Empress is associated with fertility, both in terms of physical birth and the birth of new ideas or projects. She embodies sensuality, beauty, and the connection to nature. This card reminds us to embrace our own creative potential and to care for ourselves and others with compassion and love.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d2/RWS_Tarot_03_Empress.jpg"
   },
   {
@@ -37,6 +41,7 @@
     "sign": "Aries ♈︎",
     "category": "Major Arcana",
     "description": "You possess strength, leadership, and authority. Take charge of your life and establish order and structure. Use your power responsibly and with integrity.",
+    "indepth": "The Emperor is a card of authority, structure, and leadership. He represents the embodiment of masculine energy and signifies the need for organization and discipline. The Emperor symbolizes the power to create order out of chaos and to establish a solid foundation. He encourages us to take control of our lives, set clear boundaries, and make decisions with confidence. This card reminds us to embrace responsibility and use our power wisely.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/RWS_Tarot_04_Emperor.jpg"
   },
   {
@@ -45,6 +50,7 @@
     "sign": "Taurus ♉︎",
     "category": "Major Arcana",
     "description": "You seek spiritual wisdom and guidance. Embrace tradition and connect with a higher power or spiritual teachings. Seek meaning and understanding in the world around you.",
+    "indepth": "The Hierophant is a card of tradition, spirituality, and guidance. He represents the search for deeper meaning and connection to a higher power. The Hierophant symbolizes wisdom, teachings, and the importance of tradition and rituals. He encourages us to seek spiritual guidance and to explore our beliefs and values. This card reminds us to honor our spiritual path and find solace in community and shared wisdom.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/RWS_Tarot_05_Hierophant.jpg"
   },
   {
@@ -53,6 +59,7 @@
     "sign": "Gemini ♊︎",
     "category": "Major Arcana",
     "description": "You are faced with choices and decisions regarding matters of the heart. Embrace love, harmony, and connection. Follow your heart and choose what resonates with your true desires.",
+    "indepth": "The Lovers is a card of love, connection, and choices. It represents the union of opposites and the power of harmonious relationships. The Lovers signify not only romantic love but also the choices we make from the heart. This card embodies passion, desire, and the need for balance. It reminds us to listen to our hearts and make choices that align with our true selves.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/TheLovers.jpg"
   },
   {
@@ -61,6 +68,7 @@
     "sign": "Cancer ♋︎",
     "category": "Major Arcana",
     "description": "You are in control and ready to move forward. Harness your determination and willpower to overcome challenges and reach your goals. Trust in your abilities and keep moving ahead.",
+    "indepth": "The Chariot is a card of determination, willpower, and victory. It represents the ability to overcome obstacles and move forward with confidence. The Chariot symbolizes control, assertiveness, and the need to balance opposing forces. This card reminds us to focus our energy and set clear goals, knowing that we have the strength and determination to succeed.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/RWS_Tarot_07_Chariot.jpg"
   },
   {
@@ -69,6 +77,7 @@
     "sign": "Leo ♌︎",
     "category": "Major Arcana",
     "description": "You possess inner strength and courage. Tap into your resilience and face challenges with grace and composure. Use your personal power to overcome obstacles and find balance.",
+    "indepth": "Strength is a card of inner courage, resilience, and self-control. It represents the power of taming our inner beasts and finding strength in gentleness. Strength embodies compassion, patience, and the ability to face challenges with grace. This card reminds us to trust in our own inner strength and to approach difficulties with kindness and understanding.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f5/RWS_Tarot_08_Strength.jpg"
   },
   {
@@ -77,6 +86,7 @@
     "sign": "Virgo ♍︎",
     "category": "Major Arcana",
     "description": "You seek solitude and introspection. Take time for self-reflection and seek inner wisdom. Trust your inner light to guide you on your path of self-discovery.",
+    "indepth": "The Hermit is a card of introspection, solitude, and inner guidance. He represents the search for deeper truths and the need for self-reflection. The Hermit symbolizes wisdom, enlightenment, and the journey of self-discovery. This card urges us to take time for solitude, listen to our inner voice, and seek answers within ourselves. It reminds us that sometimes the path to enlightenment requires stepping away from the external world.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/4d/RWS_Tarot_09_Hermit.jpg"
   },
   {
@@ -85,6 +95,7 @@
     "planet": "Jupiter ♃",
     "category": "Major Arcana",
     "description": "You are in the midst of cycles and changes. Embrace the ebb and flow of life and trust in the universe's plan. Find opportunity in unexpected turns of fate.",
+    "indepth": "The Wheel of Fortune is a card of cycles, change, and destiny. It represents the ever-turning wheel of life and the inevitable ups and downs that come with it. The Wheel of Fortune signifies both luck and the consequences of our actions. This card reminds us that change is constant and that we have the power to shape our own destiny. It encourages us to embrace the flow of life and make the most of every opportunity.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg"
   },
   {
@@ -93,6 +104,7 @@
     "sign": "Libra ♎︎",
     "category": "Major Arcana",
     "description": "You seek fairness and truth. Uphold principles of justice and balance in your actions. Make decisions with impartiality and integrity.",
+    "indepth": "Justice is a card of fairness, balance, and integrity. It represents the need for truth and accountability. Justice embodies the principles of cause and effect, and the consequences of our actions. This card symbolizes the pursuit of justice, ethical decision-making, and the restoration of balance. It reminds us to act with fairness and objectivity, and to seek resolutions based on truth and righteousness.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/RWS_Tarot_11_Justice.jpg"
   },
   {
@@ -101,6 +113,7 @@
     "planet": "Neptune ♆",
     "category": "Major Arcana",
     "description": "You are in a state of suspension and surrender. Embrace the power of surrendering control and gain a new perspective. Trust that a greater understanding will come.",
+    "indepth": "The Hanged Man is a card of surrender, suspension, and new perspectives. It represents a willingness to let go of control and to look at situations from a different angle. The Hanged Man symbolizes sacrifice, patience, and spiritual growth. This card reminds us that sometimes we need to pause, surrender, and trust the process. It invites us to see beyond the conventional and find wisdom in unconventional ways.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/RWS_Tarot_12_Hanged_Man.jpg"
   },
   {
@@ -109,6 +122,7 @@
     "sign": "Scorpio ♏︎",
     "category": "Major Arcana",
     "description": "You face endings and transformation. Embrace the process of letting go and make space for new beginnings. Embrace the cycle of life and embrace the lessons of change.",
+    "indepth": "Death is a card of transformation, endings, and new beginnings. It represents the natural cycle of life and the inevitability of change. Death symbolizes the need to release the old and make way for the new. This card signifies the power of transformation, rebirth, and the shedding of what no longer serves us. It reminds us that in every ending lies the seed of a new beginning.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/RWS_Tarot_13_Death.jpg"
   },
   {
@@ -117,6 +131,7 @@
     "sign": "Sagittarius ♐︎",
     "category": "Major Arcana",
     "description": "You seek harmony and balance in your life. Practice moderation and find a middle ground. Blend opposing forces to create a state of equilibrium.",
+    "indepth": "Temperance is a card of balance, harmony, and moderation. It represents the blending of opposites and the need for equilibrium. Temperance symbolizes patience, self-control, and the art of finding middle ground. This card encourages us to find balance in our lives, integrate different aspects of ourselves, and seek harmony in all that we do. It reminds us that through moderation and moderation, we can achieve inner peace.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/RWS_Tarot_14_Temperance.jpg"
   },
   {
@@ -125,6 +140,7 @@
     "sign": "Capricorn ♑︎",
     "category": "Major Arcana",
     "description": "You confront your own limitations and attachments. Break free from unhealthy patterns and beliefs. Embrace your personal power and release what no longer serves you.",
+    "indepth": "The Devil is a card of temptation, bondage, and self-limitation. It represents the shadow aspects of ourselves and the entrapments of material desires. The Devil symbolizes attachments, addictions, and the illusions that hold us back. This card reminds us to examine our own self-imposed limitations and break free from negative patterns. It urges us to confront our fears, let go of unhealthy attachments, and reclaim our personal power.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/RWS_Tarot_15_Devil.jpg"
   },
   {
@@ -133,6 +149,7 @@
     "planet": "Mars ♂",
     "category": "Major Arcana",
     "description": "You experience sudden upheaval and change. Embrace the opportunity for transformation and growth. Sometimes destruction is necessary for new foundations to be built.",
+    "indepth": "The Tower is a card of sudden change, upheaval, and awakening. It represents the collapse of old structures and the breaking down of illusions. The Tower signifies the need to release what no longer serves us and to embrace transformation. This card can bring about a period of chaos and disruption, but it also opens the way for new opportunities and growth. It reminds us that sometimes destruction is necessary for rebirth.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/RWS_Tarot_16_Tower.jpg"
   },
   {
@@ -141,6 +158,7 @@
     "sign": "Aquarius ♒︎",
     "category": "Major Arcana",
     "description": "You are filled with hope, inspiration, and optimism. Embrace a sense of renewed faith and follow your guiding star. Trust in the universe's divine plan.",
+    "indepth": "The Star is a card of hope, inspiration, and spiritual guidance. It represents a beacon of light in times of darkness. The Star symbolizes optimism, faith, and the connection to higher realms. This card signifies healing, renewal, and the realization of our deepest desires. It reminds us to have faith in the universe and to follow our dreams, knowing that there is always a guiding light to lead us forward.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_17_Star.jpg"
   },
   {
@@ -149,6 +167,7 @@
     "sign": "Pisces ♓️",
     "category": "Major Arcana",
     "description": "You navigate the realms of the subconscious and intuition. Embrace the mystery and delve into your dreams and emotions. Trust your instincts and find guidance in the shadows.",
+    "indepth": "The Moon is a card of intuition, the subconscious mind, and the cycles of life. It represents the mysterious and hidden aspects of ourselves. The Moon symbolizes emotions, dreams, and the need for introspection. This card reminds us to trust our intuition and pay attention to the subtle messages that arise from within. It urges us to navigate the ebb and flow of life with awareness and embrace the power of the unknown.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/7f/RWS_Tarot_18_Moon.jpg"
   },
   {
@@ -157,6 +176,7 @@
     "planet": "Sun ☉",
     "category": "Major Arcana",
     "description": "You radiate joy, vitality, and positivity. Embrace your inner child and celebrate life's abundance. Bask in the light of your own authenticity and shine brightly.",
+    "indepth": "The Sun is a card of joy, vitality, and success. It represents a state of enlightenment and the expression of our authentic selves. The Sun symbolizes warmth, happiness, and the radiance of our inner light. This card signifies abundance, optimism, and the fulfillment of desires. It reminds us to embrace our own uniqueness, shine brightly, and bask in the positive energy that surrounds us.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/1/17/RWS_Tarot_19_Sun.jpg"
   },
   {
@@ -165,6 +185,7 @@
     "planet": "Pluto ♇",
     "category": "Major Arcana",
     "description": "You face a time of reflection and evaluation. Embrace self-awareness and personal growth. Rise above past mistakes and embrace new beginnings.",
+    "indepth": "Judgment is a card of self-reflection, rebirth, and spiritual awakening. It represents a call to account for our actions and make amends. Judgment symbolizes personal transformation, forgiveness, and the opportunity for redemption. This card reminds us to take stock of our lives, let go of past judgments, and embrace a higher level of consciousness. It urges us to release the old and step into a new chapter of growth and self-realization.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/dd/RWS_Tarot_20_Judgement.jpg"
   },
   {
@@ -173,6 +194,7 @@
     "planet": "Saturn ♄",
     "category": "Major Arcana",
     "description": "You have reached a state of completion and integration. Embrace your wholeness and celebrate your achievements. You are connected to the world and ready to embark on new journeys.",
+    "indepth": "The World is a card of completion, fulfillment, and wholeness. It represents the culmination of a journey and the attainment of a major goal. The World symbolizes integration, unity, and the realization of our true potential. This card signifies a sense of harmony, accomplishment, and the recognition of our interconnectedness with all of existence. It reminds us that we have come full circle and encourages us to celebrate our achievements while embarking on new adventures.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/RWS_Tarot_21_World.jpg"
   },
   {
@@ -180,6 +202,7 @@
     "card": "Ace of Wands",
     "category": "Minor Arcana",
     "description": "You are filled with creative potential and new beginnings. Channel your passion and take bold action.",
+    "indepth": "The Ace of Wands represents new beginnings, creative potential, and the spark of inspiration. It signifies the birth of a passionate idea or project. This card symbolizes enthusiasm, drive, and a surge of energy. It encourages you to embrace your creativity, take bold action, and seize opportunities with confidence.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Wands01.jpg"
   },
   {
@@ -190,6 +213,7 @@
     "category": "Minor Arcana",
     "element": "fire",
     "description": "You stand at a crossroads, ready to make decisions and expand your horizons. Trust your intuition and embrace the path that calls to you.",
+    "indepth": "The Two of Wands signifies planning, exploration, and making decisions. It represents a period of reflection and weighing options. This card symbolizes vision, ambition, and the need for a clear direction. It encourages you to step out of your comfort zone, expand your horizons, and make choices that align with your long-term goals.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Wands02.jpg"
   },
   {
@@ -199,6 +223,7 @@
     "sign": "Aries ♈︎",
     "category": "Minor Arcana",
     "description": "You are experiencing progress and anticipation. Embrace opportunities on the horizon and step into the unknown with confidence.",
+    "indepth": "The Three of Wands represents progress, expansion, and exploration. It signifies the initial stages of growth and the anticipation of future success. This card symbolizes entrepreneurship, collaboration, and the manifestation of your plans. It encourages you to have faith in your abilities, build upon your achievements, and embrace new opportunities that come your way.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Wands03.jpg"
   },
   {
@@ -208,6 +233,7 @@
     "sign": "Aries ♈︎",
     "category": "Minor Arcana",
     "description": "You celebrate harmony, stability, and joyful accomplishments. Embrace the unity and positive energy around you.",
+    "indepth": "The Four of Wands represents celebration, harmony, and stability. It signifies a period of joy, abundance, and a sense of belonging. This card symbolizes achievements, community, and the coming together of like-minded individuals. It encourages you to appreciate the blessings in your life, celebrate your accomplishments, and cultivate harmonious relationships.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Wands04.jpg"
   },
   {
@@ -217,6 +243,7 @@
     "sign": "Leo ♌︎",
     "category": "Minor Arcana",
     "description": "You face challenges and conflicts. Stand your ground, assert yourself, and find the strength to overcome obstacles.",
+    "indepth": "The Five of Wands signifies conflict, competition, and challenges. It represents a period of tension, disagreement, and differing viewpoints. This card symbolizes the need for communication, cooperation, and finding common ground. It encourages you to approach conflicts with an open mind, seek resolutions, and learn from the diversity of opinions.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Wands05.jpg"
   },
   {
@@ -226,6 +253,7 @@
     "sign": "Leo ♌︎",
     "category": "Minor Arcana",
     "description": "You celebrate victory and recognition. Embrace the acknowledgement of your efforts and enjoy the rewards of your success.",
+    "indepth": "The Six of Wands represents victory, recognition, and success. It signifies the triumph over obstacles and the acknowledgment of your efforts. This card symbolizes self-confidence, public acclaim, and the rewards of hard work. It encourages you to embrace your accomplishments, share your achievements with others, and continue striving for excellence.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Wands06.jpg"
   },
   {
@@ -235,6 +263,7 @@
     "sign": "Leo ♌︎",
     "category": "Minor Arcana",
     "description": "You stand your ground and defend your beliefs. Tap into your inner strength and assert yourself with courage.",
+    "indepth": "The Seven of Wands signifies courage, determination, and standing your ground. It represents a period of challenges and opposition that test your resolve. This card symbolizes resilience, assertiveness, and the need to defend your position. It encourages you to trust in your abilities, assert your boundaries, and overcome obstacles with unwavering determination.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Wands07.jpg"
   },
   {
@@ -244,6 +273,7 @@
     "sign": "Sagittarius ♐︎",
     "category": "Minor Arcana",
     "description": "You experience swift action and progress. Embrace the momentum and seize opportunities as they come your way.",
+    "indepth": "The Eight of Wands represents swift action, progress, and momentum. It signifies a time of rapid development and forward movement. This card symbolizes energy, communication, and the acceleration of plans. It encourages you to embrace opportunities that come your way, take decisive action, and maintain a sense of urgency in pursuing your goals.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Wands08.jpg"
   },
   {
@@ -253,6 +283,7 @@
     "sign": "Sagittarius ♐︎",
     "category": "Minor Arcana",
     "description": "You embody resilience and determination. Persevere through challenges and draw on your inner strength to overcome obstacles.",
+    "indepth": "The Nine of Wands signifies resilience, perseverance, and resilience. It represents a period of endurance and the need to stay committed despite challenges. This card symbolizes courage, determination, and the ability to overcome obstacles. It encourages you to stay true to your path, draw upon your inner strength, and trust that you have what it takes to overcome adversity.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tarot_Nine_of_Wands.jpg"
   },
   {
@@ -262,6 +293,7 @@
     "sign": "Sagittarius ♐︎",
     "category": "Minor Arcana",
     "description": "You carry heavy burdens and responsibilities. Assess your priorities and seek support to find balance and lighten your load.",
+    "indepth": "The Ten of Wands represents burden, responsibility, and the weight of excessive demands. It signifies a period of overwhelm and feeling overloaded. This card symbolizes hard work, obligations, and the need to reevaluate your priorities. It encourages you to delegate tasks, seek support when needed, and find ways to lighten your load for the sake of your well-being.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Wands10.jpg"
   },
   {
@@ -269,6 +301,7 @@
     "card": "Page of Wands",
     "category": "Court Arcana",
     "description": "You embody youthful enthusiasm, curiosity, and creativity. Embrace new beginnings and explore your passions with a sense of adventure.",
+    "indepth": "The Page of Wands represents youthful energy, enthusiasm, and curiosity. It signifies the emergence of new ideas and opportunities. This card symbolizes exploration, creativity, and a sense of adventure. It encourages you to embrace your passions, be open to learning, and pursue new interests with a playful and experimental mindset.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Wands11.jpg"
   },
   {
@@ -277,6 +310,7 @@
     "sign": "Sagittarius ♐︎",
     "category": "Court Arcana",
     "description": "You are driven by ambition, passion, and a thirst for adventure. Harness your energy and take bold action to pursue your goals.",
+    "indepth": "The Knight of Wands represents action, passion, and the pursuit of adventure. It signifies a period of movement, change, and taking risks. This card symbolizes courage, ambition, and a go-getter attitude. It encourages you to be bold in your endeavors, embrace opportunities for growth, and fearlessly pursue your goals.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/1/16/Wands12.jpg"
   },
   {
@@ -285,6 +319,7 @@
     "sign": "Aries ♈︎",
     "category": "Court Arcana",
     "description": "You possess confidence, charisma, and leadership qualities. Embrace your inner fire and inspire others with your passion and determination.",
+    "indepth": "The Queen of Wands represents charisma, confidence, and leadership. It signifies a person who is vibrant, influential, and passionate. This card symbolizes inner strength, independence, and the ability to inspire others. It encourages you to step into your own power, be assertive in your pursuits, and lead by example.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Wands13.jpg"
   },
   {
@@ -293,6 +328,7 @@
     "sign": "Leo ♌︎",
     "category": "Court Arcana",
     "description": "You exude natural leadership, vision, and authority. Tap into your entrepreneurial spirit and use your creativity to manifest your goals.",
+    "indepth": "The King of Wands represents charisma, vision, and authority. It signifies a person who is confident, influential, and accomplished. This card symbolizes leadership, ambition, and the mastery of one's domain. It encourages you to take charge of your life, make decisive decisions, and use your influence to bring about positive change.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Wands14.jpg"
   },
   {
@@ -300,6 +336,7 @@
     "card": "Ace of Cups",
     "category": "Minor Arcana",
     "description": "You experience a surge of emotional energy and new beginnings in love and relationships. Open your heart to love and compassion.",
+    "indepth": "The Ace of Cups represents new beginnings, emotional potential, and the opening of the heart. It signifies the birth of love, compassion, and deep emotional connections. This card symbolizes love, intuition, and the flow of emotions. It encourages you to be open to receiving and giving love, nurturing your relationships, and embracing the depths of your emotions.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Cups01.jpg"
   },
   {
@@ -309,6 +346,7 @@
     "sign": "Cancer ♋︎",
     "category": "Minor Arcana",
     "description": "You forge deep connections and experience harmony in partnerships. Embrace the balance and mutual support in your relationships.",
+    "indepth": "The Two of Cups signifies harmony, partnership, and connection. It represents the coming together of two souls in a mutually supportive relationship. This card symbolizes love, balance, and the potential for a deep emotional bond. It encourages you to seek harmonious relationships, create a sense of unity, and find common ground with others.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Cups02.jpg"
   },
   {
@@ -318,6 +356,7 @@
     "sign": "Cancer ♋︎",
     "category": "Minor Arcana",
     "description": "You celebrate joy, friendship, and community. Embrace the bond with like-minded individuals and enjoy the moments of connection.",
+    "indepth": "The Three of Cups represents celebration, friendship, and joyous connections. It signifies a period of social gatherings, shared happiness, and a sense of belonging. This card symbolizes camaraderie, shared experiences, and the joys of companionship. It encourages you to celebrate life's blessings, nurture your friendships, and create meaningful connections with others.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Cups03.jpg"
   },
   {
@@ -327,6 +366,7 @@
     "sign": "Cancer ♋︎",
     "category": "Minor Arcana",
     "description": "You reflect on your emotions and desires. Take a moment of introspection to reassess your priorities and find new inspiration.",
+    "indepth": "The Four of Cups signifies introspection, contemplation, and emotional apathy. It represents a period of emotional stagnation and a sense of dissatisfaction. This card symbolizes introspection, soul-searching, and the need to reassess your emotional fulfillment. It encourages you to explore your inner landscape, seek new perspectives, and find renewed passion in life.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/35/Cups04.jpg"
   },
   {
@@ -336,6 +376,7 @@
     "sign": "Scorpio ♏︎",
     "category": "Minor Arcana",
     "description": "You face loss, grief, or disappointment. Allow yourself to process emotions and seek healing and acceptance.",
+    "indepth": "The Five of Cups represents loss, grief, and emotional disappointment. It signifies a period of sadness and regret. This card symbolizes emotional healing, acceptance, and the need to find solace in the midst of sorrow. It encourages you to acknowledge your feelings, seek support from loved ones, and focus on the positive aspects of your life.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cups05.jpg"
   },
   {
@@ -345,6 +386,7 @@
     "sign": "Scorpio ♏︎",
     "category": "Minor Arcana",
     "description": "You embrace nostalgia, innocence, and fond memories. Tap into the joys of the past and cherish the connections you have made.",
+    "indepth": "The Six of Cups signifies nostalgia, innocence, and sentimental connections. It represents a period of reminiscing, childhood memories, and a return to simpler times. This card symbolizes emotional bonds, kindness, and the power of unconditional love. It encourages you to embrace the beauty of nostalgia, cherish your relationships, and find joy in acts of kindness.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/1/17/Cups06.jpg"
   },
   {
@@ -354,6 +396,7 @@
     "sign": "Scorpio ♏︎",
     "category": "Minor Arcana",
     "description": "You are presented with choices and dreams. Assess your options wisely and discern between fantasy and reality.",
+    "indepth": "The Seven of Cups signifies choices, illusions, and dreams. It represents a period of decision-making and the need to navigate through multiple options. This card symbolizes imagination, fantasy, and the allure of possibilities. It encourages you to clarify your desires, discern between reality and illusion, and make choices that align with your truest aspirations.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cups07.jpg"
   },
   {
@@ -363,6 +406,7 @@
     "sign": "Pisces ♓️",
     "category": "Minor Arcana",
     "description": "You embark on a journey of emotional retreat and soul-searching. Release what no longer serves you and seek deeper meaning.",
+    "indepth": "The Eight of Cups represents walking away, letting go, and emotional growth. It signifies a period of introspection and the need for a change in emotional direction. This card symbolizes soul-searching, detachment, and the pursuit of inner fulfillment. It encourages you to release attachments that no longer serve you, embark on a journey of self-discovery, and seek emotional renewal.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Cups08.jpg"
   },
   {
@@ -372,6 +416,7 @@
     "sign": "Pisces ♓️",
     "category": "Minor Arcana",
     "description": "You experience emotional fulfillment and contentment. Celebrate your wishes coming true and find true satisfaction.",
+    "indepth": "The Nine of Cups signifies contentment, emotional fulfillment, and abundance. It represents a period of satisfaction and the realization of heartfelt desires. This card symbolizes happiness, gratitude, and the attainment of emotional well-being. It encourages you to appreciate the blessings in your life, embrace joyous moments, and cultivate a sense of gratitude.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cups09.jpg"
   },
   {
@@ -381,6 +426,7 @@
     "sign": "Pisces ♓️",
     "category": "Minor Arcana",
     "description": "You embrace harmony, love, and domestic bliss. Revel in the joy of family and emotional fulfillment.",
+    "indepth": "The Ten of Cups represents harmony, emotional fulfillment, and domestic bliss. It signifies a period of deep emotional connection within family and relationships. This card symbolizes love, joy, and the culmination of emotional happiness. It encourages you to nurture your relationships, create a loving home environment, and find true fulfillment through emotional connections.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cups10.jpg"
   },
   {
@@ -388,6 +434,7 @@
     "card": "Page of Cups",
     "category": "Court Arcana",
     "description": "You are open to new emotions and creative inspiration. Embrace your intuition and allow your heart to guide you on a path of self-expression.",
+    "indepth": "The Page of Cups represents creativity, intuition, and emotional exploration. It signifies the emergence of artistic talents and the need to express your feelings. This card symbolizes sensitivity, imagination, and a childlike wonder. It encourages you to listen to your intuition, embrace your creative impulses, and explore the depths of your emotions.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Cups11.jpg"
   },
   {
@@ -396,6 +443,7 @@
     "sign": "Pisces ♓️",
     "category": "Court Arcana",
     "description": "You embody romantic idealism, emotional depth, and artistic pursuits. Explore your passions and let your heart lead the way.",
+    "indepth": "The Knight of Cups represents romance, imagination, and emotional pursuit. It signifies a person who is romantic, passionate, and guided by their emotions. This card symbolizes chivalry, creativity, and the pursuit of love. It encourages you to follow your heart, express your feelings authentically, and engage in acts of compassion and empathy.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cups12.jpg"
   },
   {
@@ -404,6 +452,7 @@
     "sign": "Cancer ♋︎",
     "category": "Court Arcana",
     "description": "You are compassionate, nurturing, and deeply intuitive. Embrace your emotional intelligence and provide support and healing to others.",
+    "indepth": "The Queen of Cups represents empathy, intuition, and emotional maturity. It signifies a person who is nurturing, compassionate, and deeply intuitive. This card symbolizes emotional stability, empathy, and a strong connection to one's emotions. It encourages you to trust your intuition, cultivate self-love, and offer support and understanding to others.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/Cups13.jpg"
   },
   {
@@ -412,6 +461,7 @@
     "sign": "Scorpio ♏︎",
     "category": "Court Arcana",
     "description": "You possess emotional maturity, wisdom, and empathy. Tap into your intuition and find balance between your heart and mind.",
+    "indepth": "The King of Cups represents emotional balance, wisdom, and compassion. It signifies a person who is calm, wise, and emotionally mature. This card symbolizes emotional intelligence, leadership, and the ability to navigate through complex emotions. It encourages you to cultivate emotional stability, lead with empathy and understanding, and make decisions from a place of emotional maturity.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/04/Cups14.jpg"
   },
   {
@@ -419,6 +469,7 @@
     "card": "Ace of Swords",
     "category": "Minor Arcana",
     "description": "You gain mental clarity and embrace new ideas. Tap into the power of your intellect and communicate with precision.",
+    "indepth": "The Ace of Swords represents clarity, mental breakthroughs, and the power of the mind. It signifies a surge of intellectual energy and the birth of new ideas. This card symbolizes truth, mental clarity, and the ability to cut through illusions. It encourages you to embrace your intellect, seek truth and justice, and use your mental power to overcome challenges.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Swords01.jpg"
   },
   {
@@ -428,6 +479,7 @@
     "sign": "Libra ♎︎",
     "category": "Minor Arcana",
     "description": "You face decisions and the need for balance. Weigh your options and find a middle ground with thoughtful consideration.",
+    "indepth": "The Two of Swords signifies decision-making, inner conflict, and a need for balance. It represents a period of indecision and the weighing of options. This card symbolizes choices, inner harmony, and the need to find a middle ground. It encourages you to confront your inner conflicts, seek clarity in your decision-making process, and find a balance between reason and intuition.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Swords02.jpg"
   },
   {
@@ -437,6 +489,7 @@
     "sign": "Libra ♎︎",
     "category": "Minor Arcana",
     "description": "You navigate heartbreak and emotional pain. Allow yourself to grieve and seek healing to move forward.",
+    "indepth": "The Three of Swords represents heartache, grief, and emotional pain. It signifies a period of sorrow and the need for healing. This card symbolizes emotional release, acceptance, and the process of moving on. It encourages you to acknowledge your pain, allow yourself to grieve, and seek solace in the healing power of time.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/Swords03.jpg"
   },
   {
@@ -446,6 +499,7 @@
     "sign": "Libra ♎︎",
     "category": "Minor Arcana",
     "description": "You find solace in rest and introspection. Take time for self-care and rejuvenation to regain mental clarity.",
+    "indepth": "The Four of Swords signifies rest, introspection, and recuperation. It represents a period of retreat and the need to restore your energy. This card symbolizes relaxation, self-reflection, and the importance of mental and emotional rejuvenation. It encourages you to take a break, find inner peace through meditation or solitude, and recharge before moving forward.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Swords04.jpg"
   },
   {
@@ -455,6 +509,7 @@
     "sign": "Aquarius ♒︎",
     "category": "Minor Arcana",
     "description": "You encounter conflict and tension. Choose your battles wisely and seek resolution with integrity.",
+    "indepth": "The Five of Swords signifies conflict, loss, and defeat. It represents a period of tension and disharmony. This card symbolizes confrontation, self-interest, and the aftermath of a battle. It encourages you to assess your role in conflicts, learn from past experiences, and find a path towards resolution and reconciliation.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/23/Swords05.jpg"
   },
   {
@@ -464,6 +519,7 @@
     "sign": "Aquarius ♒︎",
     "category": "Minor Arcana",
     "description": "You embark on a journey of transition and healing. Leave the past behind and embrace a calmer state of mind.",
+    "indepth": "The Six of Swords represents transition, moving on, and finding solace. It signifies a period of leaving behind difficulties and embarking on a journey towards calmer waters. This card symbolizes healing, guidance, and the hope for a better future. It encourages you to embrace change, seek support in times of transition, and trust that smoother times lie ahead.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/29/Swords06.jpg"
   },
   {
@@ -473,6 +529,7 @@
     "sign": "Aquarius ♒︎",
     "category": "Minor Arcana",
     "description": "You navigate deceit and hidden motives. Stay vigilant and protect yourself from deception.",
+    "indepth": "The Seven of Swords signifies deception, trickery, and hidden agendas. It represents a period of caution and the need to be aware of potential deceit. This card symbolizes strategy, self-protection, and the importance of trustworthiness. It encourages you to be vigilant, trust your instincts, and navigate situations with integrity and honesty.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/34/Swords07.jpg"
   },
   {
@@ -482,6 +539,7 @@
     "sign": "Gemini ♊︎",
     "category": "Minor Arcana",
     "description": "You feel restricted and trapped. Break free from self-imposed limitations and find liberation from negative thoughts.",
+    "indepth": "The Eight of Swords represents limitation, self-imposed restrictions, and a feeling of being trapped. It signifies a period of mental or emotional paralysis. This card symbolizes self-doubt, fear, and the need to break free from self-imposed constraints. It encourages you to challenge your limiting beliefs, seek support to overcome obstacles, and find the inner strength to liberate yourself.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Swords08.jpg"
   },
   {
@@ -491,6 +549,7 @@
     "sign": "Gemini ♊︎",
     "category": "Minor Arcana",
     "description": "You experience anxiety and worry. Confront your fears and seek support to alleviate mental distress.",
+    "indepth": "The Nine of Swords signifies anxiety, worry, and sleepless nights. It represents a period of mental distress and emotional turmoil. This card symbolizes fear, guilt, and the overwhelming weight of negative thoughts. It encourages you to confront your fears, seek support from loved ones or professionals, and cultivate self-compassion to find solace in times of worry.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Swords09.jpg"
   },
   {
@@ -500,6 +559,7 @@
     "sign": "Gemini ♊︎",
     "category": "Minor Arcana",
     "description": "You face an ending or betrayal. Embrace the opportunity for transformation and new beginnings.",
+    "indepth": "The Ten of Swords represents pain, betrayal, and the end of a difficult cycle. It signifies a period of deep crisis and a sense of finality. This card symbolizes release, surrender, and the opportunity for rebirth. It encourages you to accept the inevitable, let go of what no longer serves you, and embrace the potential for transformation.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Swords10.jpg"
   },
   {
@@ -507,6 +567,7 @@
     "card": "Page of Swords",
     "category": "Court Arcana",
     "description": "You are intellectually curious, with a thirst for knowledge and new ideas. Embrace your analytical mind and communicate with clarity.",
+    "indepth": "The Page of Swords represents curiosity, intellectual pursuits, and youthful energy. It signifies a person who is inquisitive, eager to learn, and intellectually inclined. This card symbolizes mental agility, communication, and the pursuit of knowledge. It encourages you to embrace a curious mindset, seek intellectual growth, and express your thoughts and ideas with clarity.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Swords11.jpg"
   },
   {
@@ -515,6 +576,7 @@
     "sign": "Gemini ♊︎",
     "category": "Court Arcana",
     "description": "You are driven by truth, justice, and the pursuit of knowledge. Use your mental agility and assertiveness to champion your beliefs.",
+    "indepth": "The Knight of Swords represents action, ambition, and assertiveness. It signifies a person who is determined, driven, and focused on their goals. This card symbolizes courage, directness, and the pursuit of truth. It encourages you to take swift action, overcome obstacles with determination, and communicate your thoughts and desires with conviction.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Swords12.jpg"
   },
   {
@@ -523,6 +585,7 @@
     "sign": "Libra ♎︎",
     "category": "Court Arcana",
     "description": "You are independent, wise, and intellectually sharp. Embrace your discernment and make fair and insightful decisions.",
+    "indepth": "The Queen of Swords represents intellect, independence, and clear communication. It signifies a person who is intelligent, perceptive, and unafraid to speak their truth. This card symbolizes mental clarity, wisdom, and the power of discernment. It encourages you to embrace rationality, assert your boundaries, and communicate honestly and compassionately.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Swords13.jpg"
   },
   {
@@ -531,6 +594,7 @@
     "sign": "Aquarius ♒︎",
     "category": "Court Arcana",
     "description": "You embody authority, logic, and strategic thinking. Utilize your intellectual prowess to communicate with wisdom and objectivity.",
+    "indepth": "The King of Swords represents authority, logic, and intellectual mastery. It signifies a person who is wise, fair, and possesses strong leadership qualities. This card symbolizes analytical thinking, objectivity, and the ability to make sound judgments. It encourages you to take a rational approach to problem-solving, assert your authority when necessary, and lead with wisdom and integrity.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/33/Swords14.jpg"
   },
   {
@@ -538,6 +602,7 @@
     "card": "Ace of Pentacles",
     "category": "Minor Arcana",
     "description": "You are presented with new opportunities for abundance and prosperity. Embrace the potential for material growth and security.",
+    "indepth": "The Ace of Pentacles represents new beginnings, material opportunities, and the manifestation of abundance. It signifies the birth of prosperity and the potential for financial or physical growth. This card symbolizes stability, wealth, and the rewards of hard work. It encourages you to embrace new opportunities, be grounded in practicality, and use your resources wisely.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pents01.jpg"
   },
   {
@@ -547,6 +612,7 @@
     "sign": "Capricorn ♑︎",
     "category": "Minor Arcana",
     "description": "You find balance and adaptability in managing resources and priorities. Juggle multiple tasks with grace and flexibility.",
+    "indepth": "The Two of Pentacles signifies balance, adaptability, and juggling multiple priorities. It represents a period of managing various aspects of life and finding equilibrium. This card symbolizes flexibility, resourcefulness, and the need to find harmony between work and personal life. It encourages you to prioritize and make conscious choices to maintain balance in your endeavors.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Pents02.jpg"
   },
   {
@@ -556,6 +622,7 @@
     "sign": "Capricorn ♑︎",
     "category": "Minor Arcana",
     "description": "You collaborate with others and showcase your skills. Embrace teamwork and the rewards of dedicated effort.",
+    "indepth": "The Three of Pentacles represents collaboration, craftsmanship, and the rewards of teamwork. It signifies a period of working harmoniously with others to achieve shared goals. This card symbolizes skill, creativity, and the recognition of your talents. It encourages you to value the contributions of others, collaborate effectively, and invest in the development of your skills.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pents03.jpg"
   },
   {
@@ -565,6 +632,7 @@
     "sign": "Capricorn ♑︎",
     "category": "Minor Arcana",
     "description": "You seek stability and security. Find a balance between saving and enjoying life's pleasures.",
+    "indepth": "The Four of Pentacles signifies stability, security, and a focus on material possessions. It represents a period of holding onto what you have and seeking financial or emotional security. This card symbolizes conservation, possessiveness, and the need for stability. It encourages you to strike a balance between saving and enjoying life's pleasures and to assess whether your attachments are serving your growth.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/3/35/Pents04.jpg"
   },
   {
@@ -574,6 +642,7 @@
     "sign": "Taurus ♉︎",
     "category": "Minor Arcana",
     "description": "You experience financial challenges and insecurity. Seek support and resources to overcome difficulties.",
+    "indepth": "The Five of Pentacles represents hardship, financial difficulties, and a sense of lack. It signifies a period of struggle and the need for resilience. This card symbolizes perseverance, support, and the potential for spiritual growth amidst challenges. It encourages you to seek support in times of need, shift your perspective to find hidden blessings, and cultivate inner strength.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pents05.jpg"
   },
   {
@@ -583,6 +652,7 @@
     "sign": "Taurus ♉︎",
     "category": "Minor Arcana",
     "description": "You embrace generosity and giving. Share your wealth and find fulfillment in acts of kindness.",
+    "indepth": "The Six of Pentacles signifies generosity, charity, and the balance of giving and receiving. It represents a period of abundance and the opportunity to share your blessings with others. This card symbolizes compassion, fairness, and the rewards of helping those in need. It encourages you to give with an open heart, receive graciously, and find fulfillment through acts of kindness.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Pents06.jpg"
   },
   {
@@ -592,6 +662,7 @@
     "sign": "Taurus ♉︎",
     "category": "Minor Arcana",
     "description": "You exercise patience and wait for the fruits of your labor. Trust in the timing of your efforts and have faith in your progress.",
+    "indepth": "The Seven of Pentacles signifies patience, perseverance, and the rewards of long-term investments. It represents a period of waiting for the fruits of your labor to manifest. This card symbolizes growth, evaluation, and the need to assess your progress. It encourages you to be patient, trust the process, and make adjustments as necessary to achieve your goals.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pents07.jpg"
   },
   {
@@ -601,6 +672,7 @@
     "sign": "Virgo ♍︎",
     "category": "Minor Arcana",
     "description": "You dedicate yourself to hard work and craftsmanship. Master your skills and pursue excellence for long-term success.",
+    "indepth": "The Eight of Pentacles represents diligence, craftsmanship, and the pursuit of mastery. It signifies a period of focused work and dedicated effort towards honing your skills. This card symbolizes dedication, discipline, and the rewards of hard work. It encourages you to invest time and energy in your craft, seek continuous improvement, and take pride in your achievements.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pents08.jpg"
   },
   {
@@ -610,6 +682,7 @@
     "sign": "Virgo ♍︎",
     "category": "Minor Arcana",
     "description": "You enjoy self-sufficiency and luxury. Revel in the rewards of personal achievement and abundance.",
+    "indepth": "The Nine of Pentacles signifies abundance, luxury, and self-sufficiency. It represents a period of enjoying the rewards of your efforts and experiencing financial or material well-being. This card symbolizes independence, refinement, and the appreciation of life's pleasures. It encourages you to cultivate self-reliance, enjoy the fruits of your labor, and create a harmonious and fulfilling environment for yourself.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Pents09.jpg"
   },
   {
@@ -619,6 +692,7 @@
     "sign": "Virgo ♍︎",
     "category": "Minor Arcana",
     "description": "You experience prosperity and family wealth. Embrace the fulfillment of material and emotional needs.",
+    "indepth": "The Ten of Pentacles represents wealth, family legacy, and long-term security. It signifies a period of financial stability and the establishment of a solid foundation. This card symbolizes generational wealth, tradition, and the importance of family and community. It encourages you to build a legacy, foster strong family ties, and create a prosperous future for yourself and future generations.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pents10.jpg"
   },
   {
@@ -626,6 +700,7 @@
     "card": "Page of Pentacles",
     "category": "Court Arcana",
     "description": "You are eager to learn and explore opportunities for growth and abundance. Embrace practicality and lay a solid foundation for your future.",
+    "indepth": "The Page of Pentacles represents ambition, practicality, and the eagerness to learn. It signifies a person who is diligent, responsible, and eager to embark on a new venture. This card symbolizes new beginnings, potential, and the pursuit of practical knowledge. It encourages you to be open to new opportunities, approach tasks with a practical mindset, and invest in your personal and professional growth.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Pents11.jpg"
   },
   {
@@ -634,6 +709,7 @@
     "sign": "Virgo ♍︎",
     "category": "Court Arcana",
     "description": "You are diligent, responsible, and focused on long-term goals. Stay committed to your path and make steady progress toward your aspirations.",
+    "indepth": "The Knight of Pentacles represents reliability, patience, and a diligent work ethic. It signifies a person who is dedicated, methodical, and focused on achieving long-term goals. This card symbolizes stability, responsibility, and the steady progress towards success. It encourages you to be persistent, stay committed to your goals, and take a practical approach to problem-solving.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Pents12.jpg"
   },
   {
@@ -642,6 +718,7 @@
     "sign": "Capricorn ♑︎",
     "category": "Court Arcana",
     "description": "You embody practicality, abundance, and nurturing energy. Embrace your connection with the earth and create a harmonious home environment.",
+    "indepth": "The Queen of Pentacles represents abundance, nurturing, and practical wisdom. It signifies a person who is nurturing, grounded, and possesses strong financial acumen. This card symbolizes domestic stability, prosperity, and the ability to provide for others. It encourages you to cultivate a nurturing environment, manage your resources wisely, and find fulfillment through material and emotional well-being.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/Pents13.jpg"
   },
   {
@@ -650,6 +727,7 @@
     "sign": "Taurus ♉︎",
     "category": "Court Arcana",
     "description": "You are prosperous, reliable, and possess a strong sense of material security. Utilize your financial wisdom and responsible management of resources.",
+    "indepth": "The King of Pentacles represents wealth, authority, and the mastery of material matters. It signifies a person who is successful, reliable, and demonstrates financial expertise. This card symbolizes abundance, competence, and the responsible use of resources. It encourages you to embody qualities of leadership, make sound financial decisions, and create a stable and prosperous life.",
     "img": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Pents14.jpg"
   }
 ]

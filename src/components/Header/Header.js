@@ -5,7 +5,6 @@ import planets from '../../data/planets.json'
 import signs from '../../data/signs.json'
 import { useState } from 'react'
 import { Link } from 'react-router-dom';
-// how can I make the NavBar not push down the rest of the page, and make its height limited and scrollable?
 
 const Header = () => {
   const [cardsOpen, setCardsOpen] = useState(false);

@@ -1,10 +1,11 @@
 import './Card.scss'
 import React from 'react';
 import { useParams } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import cards from '../../data/cards.json'
 
 const Card = () => {
-  
+
   const { cardId } = useParams()
 
   const json = cards
@@ -17,11 +18,18 @@ const Card = () => {
       <div className='card__img-container'>
         <img className='card__img' src={activeCard.img} />
       </div>
-      <h1 className='card__title'>{activeCard.card}</h1>
-      <p>{activeCard.description}</p>
-      <p>{activeCard.category}</p>
-      <p>{activeCard.planet}</p>
-      <p>{activeCard.sign}</p>
+      <div className='card__info'>
+        <h1 className='card__title'>{activeCard.card}</h1>
+        <p>{activeCard.description}</p>
+        <span>{activeCard.indepth}</span>
+        <p>{activeCard.category}</p>
+        <Link className='card__planet' to={`/planet/${activeCard.planet}`}>
+          <p>{activeCard.planet}</p>
+        </Link>
+        <Link className='card__sign' to={`/sign/${activeCard.sign}`}>
+          <p>{activeCard.sign}</p>
+        </Link>
+      </div>
     </section>
   );
 };

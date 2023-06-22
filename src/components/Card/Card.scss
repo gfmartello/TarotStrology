@@ -1,8 +1,39 @@
 @use '../../styles/partials/mixins' as *;
 
 .card {
+  @include tablet {
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
   &__img {
     height: 50vh;
-    width: 30vh;
+    width: 20vw;
+  }
+
+  &__info {
+    display: flex;
+    flex-direction: column;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  &__planet {
+    color: black;
+    text-decoration: none;
+
+    &:hover {
+      color: indigo;
+    }
+  }
+
+  &__sign {
+    color: black;
+    text-decoration: none;
+
+    &:hover {
+      color: indigo;
+    }
   }
 }

@@ -1,6 +1,7 @@
 import './MyCard.scss'
 import React from 'react';
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
 import cards from '../../data/cards.json'
 
 const MyCard = () => {
@@ -14,13 +15,12 @@ const MyCard = () => {
     )
     setBirthdayCard(signCards)
   }
-  console.log(birthdayCard.img)
 
   return (
     <section className='my-card'>
       <h3 className='my-card__title'>WHAT'S MY CARD?</h3>
       <form className='my-card__form'>
-        <select className='my-card__select' value={birthdayCard} onChange={e => birthdayFunction(e.target.value)}>
+        <select className='my-card__select' onChange={e => birthdayFunction(e.target.value)}>
           <option value='select'>Select your birthday</option>
           <option>Aries (Mar 21 - Apr 20)</option>
           <option>Taurus (Apr 21 - May 20)</option>
@@ -41,11 +41,17 @@ const MyCard = () => {
           <article className='my-card__results'>
             <img className='my-card__img' src={item.img} />
             <div className='my-card__info'>
-              <h3>{item.card}</h3>
+              <Link className='my-card__title' to={`/card/${item.key}`}>
+                <h3>{item.card}</h3>
+              </Link>
               <p>{item.description}</p>
               <p>{item.category}</p>
-              <p>{item.planet}</p>
-              <p>{item.sign}</p>
+              <Link className='my-card__planet' to={`/planet/${item.planet}`}>
+                <p>{item.planet}</p>
+              </Link>
+              <Link className='my-card__sign' to={`/sign/${item.sign}`}>
+                <p>{item.sign}</p>
+              </Link>
             </div>
           </article>
         ) : ''

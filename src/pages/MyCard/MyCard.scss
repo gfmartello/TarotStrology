@@ -29,4 +29,31 @@
       width: 50vw;
     }
   }
+
+  &__title {
+    color: black;
+    text-decoration: none;
+
+    &:hover {
+      color: indigo;
+    }
+  }
+
+  &__planet {
+    color: black;
+    text-decoration: none;
+
+    &:hover {
+      color: indigo;
+    }
+  }
+
+  &__sign {
+    color: black;
+    text-decoration: none;
+
+    &:hover {
+      color: indigo;
+    }
+  }
 }

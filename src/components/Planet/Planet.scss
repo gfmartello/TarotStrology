@@ -1,1 +1,14 @@
 @use '../../styles/partials/mixins' as *;
+
+.planet {
+  padding-left: 5%;
+  padding-right: 5%;
+  &__sign {
+    color: black;
+    text-decoration: none;
+
+    &:hover {
+      color: indigo;
+    }
+  }
+}

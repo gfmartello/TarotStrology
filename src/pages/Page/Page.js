@@ -32,15 +32,21 @@ const Page = () => {
             <img className='main__card-img' src={randomCard.img} />
           </div>
           <div className='main__card--column2'>
-            <h1>{randomCard.card}</h1>
+            <Link className='main__card--title' to={`/card/${randomCard.key}`}>
+              <h1>{randomCard.card}</h1>
+            </Link>
             <p>{randomCard.description}</p>
             <p>{randomCard.category}</p>
-            <div>
-              <p>{randomCard.planet}</p>
-            </div>
-            <div>
-              <p>{randomCard.sign}</p>
-            </div>
+            <Link className='main__card--planet' to={`/planet/${randomCard.planet}`}>
+              <div>
+                <p>{randomCard.planet}</p>
+              </div>
+            </Link>
+            <Link className='main__card--sign' to={`/sign/${randomCard.sign}`}>
+              <div>
+                <p>{randomCard.sign}</p>
+              </div>
+            </Link>
           </div>
         </div>
       </article>

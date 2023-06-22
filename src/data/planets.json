@@ -2,51 +2,56 @@
   {
     "planet": "Sun ☉",
     "sign": "Leo ♌︎",
-    "description": "The Sun represents the core essence of an individual's self and vitality. It symbolizes one's ego, identity, and the desire for recognition and self-expression. It radiates warmth, light, and life force, and is associated with creativity, leadership, and personal power."
+    "description": "The Sun represents our core essence, vitality, and individuality. It symbolizes self-expression, leadership, and creativity. It governs our ego, willpower, and the basic sense of self. The Sun's placement in the birth chart signifies our life purpose, personal identity, and the areas where we seek recognition and fulfillment. It radiates warmth, energy, and confidence, illuminating our path and influencing our overall character."
   },
   {
     "planet": "Moon ☽",
     "sign": "Cancer ♋︎",
-    "description": "The Moon embodies our emotions, instincts, and intuitive nature. It governs our subconscious mind and reflects our deepest needs and desires. It influences our moods, nurturing qualities, and the way we seek emotional security and comfort. The Moon also represents the feminine principle and our connection to the past and ancestral heritage."
+    "description": "The Moon embodies our emotions, instincts, and nurturing qualities. It symbolizes our inner self, subconscious mind, and emotional responses. The Moon governs our feelings, moods, and instincts, reflecting our intuitive nature and our need for security and comfort. It influences our emotional well-being, receptivity, and relationship with the feminine aspects of life. The Moon's placement in the birth chart reveals our emotional patterns, instincts, and how we experience and express our feelings."
   },
   {
     "planet": "Mercury ☿",
-    "sign": "Gemini ♊︎, Virgo ♍︎",
-    "description": "Mercury governs communication, intellect, and thought processes. It rules over reasoning abilities, logical thinking, and analytical skills. Mercury influences the way we express ourselves, adapt to new situations, and convey information. It also affects our perception, memory, and learning capacity, emphasizing the importance of effective communication and mental agility."
+    "sign": "Gemini ♊︎",
+    "sign2": "Virgo ♍︎",
+    "description": "Mercury represents communication, intellect, and mental processes. It governs our thinking patterns, reasoning abilities, and how we perceive and process information. Mercury influences our language skills, writing, speaking, and overall cognitive functions. It rules over curiosity, adaptability, and the way we learn and exchange ideas. The placement of Mercury in the birth chart indicates our communication style, learning approach, and intellectual strengths."
   },
   {
     "planet": "Venus ♀",
-    "sign": "Taurus ♉︎, Libra ♎︎",
-    "description": "Venus embodies love, beauty, and relationships. It governs our capacity to appreciate art, aesthetics, and harmony in our surroundings. Venus influences our romantic inclinations, desires for pleasure, and social interactions. It symbolizes our values, sense of self-worth, and the way we express affection and attract others."
+    "sign": "Taurus ♉︎",
+    "sign2": "Libra ♎︎",
+    "description": "Venus symbolizes love, relationships, beauty, and harmony. It governs our capacity for affection, attraction, and our aesthetic tastes. Venus influences our values, social interactions, and how we form connections with others. It rules over romance, sensuality, and the enjoyment of life's pleasures. The placement of Venus in the birth chart reveals our approach to love, relationships, and the things that bring us joy and contentment."
   },
   {
     "planet": "Mars ♂",
-    "sign": "Aries ♈︎, Scorpio ♏︎",
-    "description": "Mars represents energy, action, and assertiveness. It governs our physical drive, ambition, and our ability to pursue goals with determination. Mars influences our courage, passion, and competitive nature. It also signifies our desires, assertion of personal boundaries, and the ability to take decisive action."
+    "sign": "Aries ♈︎",
+    "sign2": "Scorpio ♏︎",
+    "description": "Mars embodies energy, action, passion, and assertiveness. It symbolizes our drive, ambition, and physical vitality. Mars governs our desires, motivation, and how we assert ourselves in the world. It rules over our courage, determination, and the ability to take risks. Mars' placement in the birth chart indicates our approach to conflict, and how we channel our energy into various pursuits."
   },
   {
     "planet": "Jupiter ♃",
-    "sign": "Sagittarius ♐︎, Pisces ♓️",
-    "description": "Jupiter symbolizes expansion, growth, and abundance. It governs optimism, wisdom, and philosophical pursuits. Jupiter influences our beliefs, ideals, and the way we seek meaning and purpose in life. It represents luck, generosity, and the ability to embrace opportunities and broaden our horizons."
+    "sign": "Sagittarius ♐︎",
+    "sign2": "Pisces ♓️",
+    "description": "Jupiter represents expansion, growth, and wisdom. It symbolizes our aspirations, abundance, and belief systems. Jupiter governs our luck, optimism, and the pursuit of knowledge and higher truth. It rules over generosity, faith, and the ability to see the bigger picture. The placement of Jupiter in the birth chart reveals our personal philosophy, areas of growth, and the opportunities that may arise in our lives."
   },
   {
     "planet": "Saturn ♄",
-    "sign": "Capricorn ♑︎, Aquarius ♒︎",
-    "description": "Saturn embodies structure, discipline, and responsibility. It governs our limitations, boundaries, and the challenges we encounter in life. Saturn influences our perseverance, self-discipline, and the need for order and practicality. It symbolizes the process of maturation, personal growth through hard work, and the development of wisdom and inner strength."
+    "sign": "Capricorn ♑︎",
+    "sign2": "Aquarius ♒︎",
+    "description": "Saturn embodies structure, discipline, and responsibility. It symbolizes our limitations, boundaries, and the lessons we must learn in life. Saturn governs our sense of duty, ambition, and the need for security. It rules over hard work, perseverance, and the development of practical skills. The placement of Saturn in the birth chart indicates areas where we may face challenges, our ability to handle responsibilities, and the lessons we must learn to achieve personal growth."
   },
   {
     "planet": "Uranus ♅",
     "sign": "Aquarius ♒︎",
-    "description": "Uranus is the planet of innovation, individuality, and change. It represents freedom, originality, and the breaking of traditional boundaries. Uranus governs our unique perspective, intellectual insights, and intuition. It influences our capacity for rebellion, unconventional thinking, and the desire for progress and liberation. Uranus also symbolizes sudden and unexpected shifts in life."
+    "description": "Uranus represents innovation, rebellion, and individuality. It symbolizes change, freedom, and the breaking of traditional norms. Uranus governs our originality, intuition, and the quest for personal freedom. It rules over sudden insights, unconventional thinking, and the pursuit of progress. The placement of Uranus in the birth chart reveals our unique qualities, areas of unpredictability, and the potential for revolution and transformation."
   },
   {
     "planet": "Neptune ♆",
     "sign": "Pisces ♓️",
-    "description": "Neptune is the planet of dreams, imagination, and spirituality. It represents our intuition, creativity, and the realm of the unconscious mind. Neptune governs our idealism, compassion, and the longing for transcendence. It influences our connection to higher realms, artistic expression, and the pursuit of mystical experiences. Neptune also symbolizes illusion and the need for discernment in navigating the unseen."
+    "description": "Neptune embodies imagination, spirituality, and intuition. It symbolizes our dreams, illusions, and the transcendent realms of consciousness. Neptune governs our empathy, creativity, and the desire for spiritual connection. It rules over inspiration, artistic pursuits, and the dissolution of boundaries. The placement of Neptune in the birth chart indicates our imaginative abilities, areas of idealism, and the potential for spiritual growth and enlightenment."
   },
   {
     "planet": "Pluto ♇",
     "sign": "Scorpio ♏︎",
-    "description": "Pluto is the planet of transformation, power, and regeneration. It represents our deepest desires, obsessions, and the process of profound change. Pluto governs our ability to face our fears, undergo inner growth, and experience rebirth. It influences our capacity for resilience, personal empowerment, and the shedding of old patterns. Pluto also symbolizes the cycle of life, death, and transformation."
+    "description": "Pluto represents transformation, power, and rebirth. It symbolizes the cycles of life, death, and regeneration. Pluto governs our deep-seated desires, subconscious forces, and the process of profound transformation. It rules over the realm of the unconscious, intensity, and the uncovering of hidden truths. The placement of Pluto in the birth chart reveals our capacity for personal growth, areas of inner power, and the potential for profound change and rebirth."
   }
 ]
