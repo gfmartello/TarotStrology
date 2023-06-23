@@ -16,7 +16,7 @@ const Card = () => {
   return (
     <section className='card'>
       <div className='card__img-container'>
-          <img className='card__img' src={activeCard.img} />
+        <img className='card__img' src={activeCard.img} />
       </div>
 
       <div className='card__info'>
@@ -24,6 +24,9 @@ const Card = () => {
         <p>{activeCard.description}</p>
         <span>{activeCard.indepth}</span>
         <p>{activeCard.category}</p>
+        <Link className='card__element' to={`/element/${activeCard.element}`}>
+          <p>{activeCard.element}</p>
+        </Link>
         <Link className='card__planet' to={`/planet/${activeCard.planet}`}>
           <p>{activeCard.planet}</p>
         </Link>

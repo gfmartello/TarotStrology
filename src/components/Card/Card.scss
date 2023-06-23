@@ -18,6 +18,15 @@
     padding-right: 5%;
   }
 
+  &__element {
+    color: black;
+    text-decoration: none;
+
+    &:hover {
+      color: indigo;
+    }
+  }
+
   &__planet {
     color: black;
     text-decoration: none;

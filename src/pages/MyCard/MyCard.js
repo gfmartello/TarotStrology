@@ -48,6 +48,9 @@ const MyCard = () => {
               </Link>
               <p>{item.description}</p>
               <p>{item.category}</p>
+              <Link className='my-card__element' to={`/element/${item.element}`}>
+                <p>{item.element}</p>
+              </Link>
               <Link className='my-card__planet' to={`/planet/${item.planet}`}>
                 <p>{item.planet}</p>
               </Link>

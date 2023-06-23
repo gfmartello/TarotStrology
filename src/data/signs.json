@@ -2,42 +2,49 @@
   {
     "sign": "Aries ♈︎",
     "planet": "Mars ♂",
+    "element": "Fire 🔥",
     "description": "Aries is a fiery and dynamic sign associated with boldness, initiative, and a pioneering spirit. Ruled by Mars, those born under this sign are courageous, independent, and natural-born leaders. Aries individuals are known for their competitive nature, enthusiasm, and determination. They possess a strong drive to achieve their goals and are not afraid to take risks. Their energetic and impulsive nature fuels their passion and desire for new experiences. Aries people are often trailblazers, initiating change and inspiring others with their charisma and fearlessness.",
     "img": "https://cdn.britannica.com/84/13384-004-ECCA3832/Aries-illumination-Book-of-Hours-Italian-Pierpont.jpg?s=1500x700&q=85"
   },
   {
     "sign": "Taurus ♉︎",
     "planet": "Venus ♀",
+    "element": "Earth ⛰️",
     "description": "Taurus is an earth sign known for its grounded and practical nature. Ruled by Venus, Taureans value stability, material comfort, and the pleasures of life. Those born under this sign are dependable, patient, and hardworking. They have a strong sense of loyalty and possess a keen eye for beauty and aesthetics. Taureans are known for their determination, resilience, and ability to manifest their goals. They appreciate the finer things in life and seek security in their relationships and environment. Their steadfast nature makes them reliable and trustworthy companions.",
     "img": "https://cdn.britannica.com/96/4596-004-1E0712A4/Taurus-Book-of-Hours-Italian-Pierpont-Morgan.jpg?s=1500x700&q=85"
   },
   {
     "sign": "Gemini ♊︎",
     "planet": "Mercury ☿",
+    "element": "Air 💨",
     "description": "Gemini is an air sign associated with intellect, versatility, and social interaction. Ruled by Mercury, Geminis are curious, communicative, and adaptable. They have a quick wit and a thirst for knowledge, making them excellent communicators and lifelong learners. Geminis possess a dual nature, representing the twin symbol of the sign, which allows them to be flexible and embrace change. They are natural conversationalists, skilled in connecting with others and gathering information. Geminis thrive in diverse environments and excel in careers that require adaptability and mental agility.",
     "img": "https://cdn.britannica.com/72/772-050-B714C90E/Gemini-Book-of-Hours-Italian-Pierpont-Morgan.jpg"
   },
   {
     "sign": "Cancer ♋︎",
     "planet": "Moon ☽",
+    "element": "Water 💧",
     "description": "Cancer is a water sign known for its sensitivity, intuition, and nurturing qualities. Ruled by the Moon, Cancerians are deeply attuned to their emotions and have a strong sense of empathy. They are loyal, compassionate, and protective of their loved ones. Family and home hold great importance to them, providing a source of emotional security. Cancerians are intuitive and perceptive, often relying on their gut feelings to navigate life's challenges. Their nurturing nature makes them natural caregivers, offering comfort and support to others in need.",
     "img": "https://cdn.britannica.com/21/44021-004-87FE1376/Cancer-illumination-book-Italian-New-York-City.jpg?s=1500x700&q=85"
   },
   {
     "sign": "Leo ♌︎",
     "planet": "Sun ☉",
+    "element": "Fire 🔥",
     "description": "Leo is a fiery sign associated with confidence, creativity, and leadership. Ruled by the Sun, Leos have a radiant and charismatic personality. They possess a natural flair for the dramatic and enjoy being in the spotlight. Leos are known for their generosity, passion, and enthusiasm. They have a strong sense of self-worth and take pride in their achievements. Leos have a regal presence and possess a natural ability to inspire and motivate others. Their creativity and love for self-expression often lead them to pursue artistic endeavors.",
     "img": "https://cdn.britannica.com/85/2085-004-0F0DDBB1/Leo-Book-of-Hours-Italian-Pierpont-Morgan.jpg?s=1500x700&q=85"
   },
   {
     "sign": "Virgo ♍︎",
     "planet": "Mercury ☿",
+    "element": "Earth ⛰️",
     "description": "Virgo is an earth sign known for its analytical, practical, and detail-oriented nature. Ruled by Mercury, Virgos are diligent, organized, and methodical in their approach to life. They have a sharp intellect and a natural talent for problem-solving. Virgos possess a strong sense of responsibility and strive for perfection in everything they do. They are reliable, dedicated, and excel in professions that require precision and attention to detail. Virgos are also known for their compassionate nature and willingness to be of service to others.",
     "img": "https://cdn.britannica.com/34/41734-050-37587D55/Virgo-book-Italian-New-York-City-Pierpont.jpg"
   },
   {
     "sign": "Libra ♎︎",
     "planet": "Venus ♀",
+    "element": "Air 💨",
     "description": "Libra is an air sign associated with balance, harmony, and diplomacy. Ruled by Venus, Librans are known for their social grace, charm, and love of beauty. They have a strong sense of justice and seek harmony in all aspects of life. Librans are skilled at seeing multiple perspectives and excel in mediation and negotiation. They value relationships and strive to maintain peace and cooperation. Librans possess a natural aesthetic sense and are drawn to art, design, and all forms of creative expression.",
     "img": "https://cdn.britannica.com/58/10258-004-54EE416A/Libra-Book-of-Hours-Italian-Pierpont-Morgan.jpg?s=1500x700&q=85"
   },
@@ -45,18 +52,21 @@
     "sign": "Scorpio ♏︎",
     "planet": "Mars ♂",
     "planet2": "Pluto ♇",
+    "element": "Water 💧",
     "description": "Scorpio is a water sign known for its intensity, passion, and depth. Ruled by Mars, Scorpios are driven, determined, and possess a magnetic presence. They have a probing and investigative nature, always seeking to uncover hidden truths and delve into the depths of their emotions. Scorpios are fiercely loyal, protective, and possess great inner strength. They are adept at transforming challenges into opportunities for growth, and their courage and resilience are unmatched. Scorpios have a strong intuition and an unwavering drive to achieve their goals. Though the sign is traditionally ruled by Mars, some modern astrologers associate the sign with Pluto.",
     "img": "https://cdn.britannica.com/49/9449-004-5388AC68/Scorpius-Book-of-Hours-Italian-Pierpont-Morgan.jpg?s=1500x700&q=85"
   },
   {
     "sign": "Sagittarius ♐︎",
     "planet": "Jupiter ♃",
+    "element": "Fire 🔥",
     "description": "Sagittarius is a fire sign associated with adventure, optimism, and philosophical exploration. Ruled by Jupiter, Sagittarians are known for their expansive nature, love of freedom, and thirst for knowledge. They have a philosophical and open-minded approach to life, always seeking new experiences and opportunities for growth. Sagittarians are adventurous, enthusiastic, and have a great sense of humor. They possess a natural gift for inspiring others and often excel in fields that involve teaching, exploration, or cultural exchange.",
     "img": "https://cdn.britannica.com/51/9551-004-3DD87324/Sagittarius-Book-of-Hours-Italian-Pierpont-Morgan.jpg?s=1500x700&q=85"
   },
   {
     "sign": "Capricorn ♑︎",
     "planet": "Saturn ♄",
+    "element": "Earth ⛰️",
     "description": "Capricorn is an earth sign known for its ambition, discipline, and practicality. Ruled by Saturn, Capricorns are driven, responsible, and possess a strong work ethic. They are masters of self-control and have a keen sense of responsibility and long-term planning. Capricorns value structure and stability and are determined to achieve their goals. They possess great organizational skills and excel in leadership positions. Capricorns are also known for their loyalty, reliability, and commitment to their loved ones.",
     "img": "https://cdn.britannica.com/74/44074-004-485D1511/Capricornus-book-Italian-New-York-City-Pierpont.jpg?s=1500x700&q=85"
   },
@@ -64,6 +74,7 @@
     "sign": "Aquarius ♒︎",
     "planet": "Saturn ♄",
     "planet2": "Uranus ♅",
+    "element": "Air 💨",
     "description": "Aquarius is an air sign associated with innovation, independence, and intellectual pursuits. Ruled by Saturn, Aquarians possess a deep sense of responsibility, discipline, and a structured approach to life. They are forward-thinking, original, and possess a strong desire for social change. Aquarians value individuality and freedom of expression, but they also understand the importance of long-term planning and practicality. They have a visionary mindset and are often at the forefront of progressive ideas and movements. Though the sign is traditionally ruled by Saturn, some modern astrologers associate the sign with Uranus.",
     "img": "https://cdn.britannica.com/66/5766-004-A409E7EF/Aquarius-book-Italian-New-York-City-Pierpont.jpg?s=1500x700&q=85"
   },
@@ -71,6 +82,7 @@
     "sign": "Pisces ♓️",
     "planet": "Jupiter ♃",
     "planet2": "Neptune ♆",
+    "element": "Water 💧",
     "description": "Pisces is a water sign known for its sensitivity, compassion, and intuitive nature. Ruled by Jupiter, Pisceans are deeply connected to their emotions and possess a profound sense of spirituality and wisdom. They have a natural affinity for the arts, music, and philosophy. Pisceans are empathetic, caring, and highly intuitive, relying on their inner guidance to navigate life. They possess a deep understanding of human nature and are often drawn to humanitarian causes. Pisceans have a gentle and adaptable personality, and their expansive imagination allows them to see the beauty and interconnectedness of all things. Though the sign is traditionally ruled by Jupiter, some modern astrologers associate the sign with Neptune.",
     "img": "https://cdn.britannica.com/28/9628-050-B60BEF86/Pisces-illumination-Book-of-Hours-Italian-Pierpont.jpg"
   }

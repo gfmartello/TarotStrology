@@ -16,6 +16,9 @@ const Sign = () => {
     <section className='sign'>
       <h1>{activeSign.sign}</h1>
       <p>{activeSign.description}</p>
+      <Link className='sign__element' to={`/element/${activeSign.element}`}>
+        <p>{activeSign.element}</p>
+      </Link>
       <span className='sign__links-container'>
         <Link className='sign__planet' to={`/planet/${activeSign.planet}`}>
           {activeSign.planet}

@@ -1,0 +1,30 @@
+[
+  {
+    "element": "Fire 🔥",
+    "description": "The fire element is passionate, dynamic, and energetic. It symbolizes inspiration, ambition, and a strong desire for self-expression. Fire signs (Aries, Leo, and Sagittarius) are often charismatic, enthusiastic, and driven individuals. They possess a fiery spirit that fuels their creativity and fuels their pursuit of goals. Fire represents the spark of life and the ability to bring warmth, courage, and vitality to any situation.",
+    "sign1": "Aries ♈︎",
+    "sign2": "Leo ♌︎",
+    "sign3": "Sagittarius ♐︎"
+  },
+  {
+    "element": "Earth ⛰️",
+    "description": "The earth element is grounded, practical, and reliable. It represents stability, strength, and a connection to the material world. Earth signs (Taurus, Virgo, and Capricorn) are typically hardworking, responsible, and focused individuals. They have a solid foundation and a practical approach to life, valuing security and tangible results. Earth embodies nurturing qualities, providing a sense of stability and a grounding presence.",
+    "sign1": "Taurus ♉︎",
+    "sign2": "Virgo ♍︎",
+    "sign3": "Capricorn ♑︎"
+  },
+  {
+    "element": "Air 💨",
+    "description": "The air element is intellectual, communicative, and social. It symbolizes thoughts, ideas, and the power of the mind. Air signs (Gemini, Libra, and Aquarius) are known for their quick wit, adaptability, and love for social interactions. They excel in communication, rational thinking, and networking. Air is associated with the realm of ideas, bringing forth a sense of curiosity, objectivity, and mental agility.",
+    "sign1": "Gemini ♊︎",
+    "sign2": "Libra ♎︎",
+    "sign3": "Aquarius ♒︎"
+  },
+  {
+    "element": "Water 💧",
+    "description": "The water element is emotional, intuitive, and deeply empathetic. It represents the realm of feelings, emotions, and the subconscious mind. Water signs (Cancer, Scorpio, and Pisces) are often highly sensitive, compassionate, and in touch with their emotions. They possess a strong intuition and can navigate the depths of the human psyche. Water symbolizes healing, emotional nourishment, and the ability to flow with life's currents.",
+    "sign1": "Cancer ♋︎",
+    "sign2": "Scorpio ♏︎",
+    "sign3": "Pisces ♓️"
+  }
+]

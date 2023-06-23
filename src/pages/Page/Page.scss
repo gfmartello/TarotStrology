@@ -63,5 +63,14 @@
         color: indigo;
       }
     }
+
+    &--element {
+      color: black;
+      text-decoration: none;
+
+      &:hover {
+        color: indigo;
+      }
+    }
   }
 }

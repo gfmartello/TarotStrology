@@ -5,6 +5,7 @@ import Header from './components/Header/Header';
 import Card from './components/Card/Card';
 import Planet from './components/Planet/Planet';
 import Sign from './components/Sign/Sign';
+import Element from './components/Element/Element';
 import MyCard from './pages/MyCard/MyCard';
 
 // what to improve on:
@@ -13,7 +14,6 @@ import MyCard from './pages/MyCard/MyCard';
 
 // which items in header component need a key element to stop error from popping up in console?
 // which items in my-card component need a key element to stop error from popping up in console?
-// add element categories to json
 
 function App() {
   function InfoPage () {
@@ -30,6 +30,7 @@ function App() {
           <Route path='/card/:cardId' element={<Card />} />
           <Route path='/planet/:planetId' element={<Planet />} />
           <Route path='/sign/:signId' element={<Sign />} />
+          <Route path='element/:elementId' element={<Element />} />
           <Route path='/mycard' element={<MyCard />} />
         </Routes>
       </BrowserRouter>
