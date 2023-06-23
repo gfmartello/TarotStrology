@@ -53,10 +53,10 @@ const MyCard = () => {
               <Link className='my-card__link' to={`/sign/${item.sign}`}>
                 <p>{item.sign}</p>
               </Link>
-              <p>{item.category}</p>
               <Link className='my-card__link' to={`/element/${item.element}`}>
                 <p>{item.element}</p>
               </Link>
+              <p>{item.category}</p>
             </div>
           </article>
         ) : ''
