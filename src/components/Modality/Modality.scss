@@ -1,0 +1,14 @@
+@use '../../styles/partials/mixins' as *;
+
+.modality {
+  padding-left: 5%;
+  padding-right: 5%;
+  &__link {
+    color: black;
+    text-decoration: none;
+
+    &:hover {
+      color: indigo;
+    }
+  }
+}

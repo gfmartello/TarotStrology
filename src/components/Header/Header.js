@@ -3,7 +3,7 @@ import './Header.scss'
 import cards from '../../data/cards.json'
 import planets from '../../data/planets.json'
 import signs from '../../data/signs.json'
-import elements from '../../data/elements.json'
+// import elements from '../../data/elements.json'
 import { useState } from 'react'
 import { Link } from 'react-router-dom';
 
@@ -24,12 +24,6 @@ const Header = () => {
 
   function handleSigns() {
     setSignsOpen(!signsOpen);
-  }
-
-  const [elementsOpen, setElementsOpen] = useState(false);
-
-  function handleElements() {
-    setElementsOpen(!elementsOpen);
   }
 
   const cardsList = cards.map((card) => (
@@ -58,16 +52,6 @@ const Header = () => {
         key={sign.sign}
         className='nav__list-item'>
         {sign.sign}
-      </li>
-    </Link>
-  ))
-
-  const elementsList = elements.map((element) => (
-    <Link className='nav__list-item' to={`/element/${element.element.split(' ')[0]}`}>
-      <li
-        key={element.element}
-        className='nav__list-item'>
-        {element.element}
       </li>
     </Link>
   ))
@@ -103,16 +87,6 @@ const Header = () => {
           signsOpen ? (
             <ul className='nav__list'>
               {signsList}
-            </ul>
-          ) : null
-        }
-      </nav>
-      <nav className='nav__elements'>
-        <h3 className='nav__title' onClick={handleElements}>ELEMENTS</h3>
-        {
-          elementsOpen ? (
-            <ul className='nav__list'>
-              {elementsList}
             </ul>
           ) : null
         }

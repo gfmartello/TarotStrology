@@ -15,11 +15,11 @@ const Planet = () => {
     <section className='planet'>
       <h1>{activePlanet.planet}</h1>
       <span>
-        <Link className='planet__sign' to={`/sign/${activePlanet.sign}`}>
+        <Link className='planet__link' to={`/sign/${activePlanet.sign}`}>
           {activePlanet.sign}
         </Link>
         <br />
-        <Link className='planet__sign' to={`/sign/${activePlanet.sign2}`}>
+        <Link className='planet__link' to={`/sign/${activePlanet.sign2}`}>
           {activePlanet.sign2}
         </Link>
       </span>

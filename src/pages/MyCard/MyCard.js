@@ -39,22 +39,22 @@ const MyCard = () => {
       {
         birthdayCard.length ? birthdayCard.map(item =>
           <article className='my-card__results'>
-            <Link className='my-card__title' to={`/card/${item.key}`}>
+            <Link className='my-card__link' to={`/card/${item.key}`}>
               <img className='my-card__img' src={item.img} />
             </Link>
             <div className='my-card__info'>
-              <Link className='my-card__title' to={`/card/${item.key}`}>
+              <Link className='my-card__link' to={`/card/${item.key}`}>
                 <h3>{item.card}</h3>
               </Link>
               <p>{item.description}</p>
               <p>{item.category}</p>
-              <Link className='my-card__element' to={`/element/${item.element}`}>
+              <Link className='my-card__link' to={`/element/${item.element}`}>
                 <p>{item.element}</p>
               </Link>
-              <Link className='my-card__planet' to={`/planet/${item.planet}`}>
+              <Link className='my-card__link' to={`/planet/${item.planet}`}>
                 <p>{item.planet}</p>
               </Link>
-              <Link className='my-card__sign' to={`/sign/${item.sign}`}>
+              <Link className='my-card__link' to={`/sign/${item.sign}`}>
                 <p>{item.sign}</p>
               </Link>
             </div>

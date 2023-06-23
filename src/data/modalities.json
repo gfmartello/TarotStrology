@@ -1,0 +1,26 @@
+[
+  {
+    "modality": "Cardinal 🜍",
+    "description": "The cardinal modality represents the initiation of action, leadership, and the ability to start new things. Signs belonging to this modality, namely Aries, Cancer, Libra, and Capricorn, are dynamic, ambitious, and assertive. They possess the drive to take charge, set goals, and initiate changes in their lives and surroundings.",
+    "sign1": "Aries ♈︎",
+    "sign2": "Cancer ♋︎",
+    "sign3": "Libra ♎︎",
+    "sign4": "Capricorn ♑︎"
+  },
+  {
+    "modality": "Fixed 🜔",
+    "description": "The fixed modality embodies stability, determination, and a strong sense of purpose. Taurus, Leo, Scorpio, and Aquarius are the signs associated with this modality. Individuals with a fixed modality are steadfast, resistant to change, and have a deep sense of loyalty. They possess the endurance to persist through challenges and are often known for their strong willpower.",
+    "sign1": "Taurus ♉︎",
+    "sign2": "Leo ♌︎",
+    "sign3": "Scorpio ♏︎",
+    "sign4": "Aquarius ♒︎"
+  },
+  {
+    "modality": "Mutable 🜳",
+    "description": "The mutable modality represents adaptability, flexibility, and versatility. Gemini, Virgo, Sagittarius, and Pisces fall under this modality. Those with a mutable modality are quick to adjust to new situations, embrace change, and are excellent communicators. They possess a natural ability to blend into different environments and readily embrace different perspectives.",
+    "sign1": "Gemini ♊︎",
+    "sign2": "Virgo ♍︎",
+    "sign3": "Sagittarius ♐︎",
+    "sign4": "Pisces ♓️"
+  }
+]

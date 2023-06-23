@@ -29,25 +29,25 @@ const Page = () => {
       <article className={isActive ? 'main__card--active' : ''}>
         <div className='main__card'>
           <div className='main__card--column1'>
-            <Link className='main__card--title' to={`/card/${randomCard.key}`}>
+            <Link className='main__card--link' to={`/card/${randomCard.key}`}>
               <img className='main__card-img' src={randomCard.img} />
             </Link>
           </div>
           <div className='main__card--column2'>
-            <Link className='main__card--title' to={`/card/${randomCard.key}`}>
+            <Link className='main__card--link' to={`/card/${randomCard.key}`}>
               <h1>{randomCard.card}</h1>
             </Link>
             <p>{randomCard.description}</p>
             <p>{randomCard.category}</p>
-            <Link className='main__card--element' to={`/element/${randomCard.element}`}>
+            <Link className='main__card--link' to={`/element/${randomCard.element}`}>
               <p>{randomCard.element}</p>
             </Link>
-            <Link className='main__card--planet' to={`/planet/${randomCard.planet}`}>
+            <Link className='main__card--link' to={`/planet/${randomCard.planet}`}>
               <div>
                 <p>{randomCard.planet}</p>
               </div>
             </Link>
-            <Link className='main__card--sign' to={`/sign/${randomCard.sign}`}>
+            <Link className='main__card--link' to={`/sign/${randomCard.sign}`}>
               <div>
                 <p>{randomCard.sign}</p>
               </div>

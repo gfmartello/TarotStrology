@@ -14,19 +14,24 @@ const Sign = () => {
 
   return (
     <section className='sign'>
-      <h1>{activeSign.sign}</h1>
-      <p>{activeSign.description}</p>
-      <Link className='sign__element' to={`/element/${activeSign.element}`}>
-        <p>{activeSign.element}</p>
-      </Link>
-      <span className='sign__links-container'>
-        <Link className='sign__planet' to={`/planet/${activeSign.planet}`}>
-          {activeSign.planet}
+      <div className='sign__container'>
+        <h1>{activeSign.sign}</h1>
+        <p>{activeSign.description}</p>
+        <Link className='sign__link' to={`/element/${activeSign.element}`}>
+          <p>{activeSign.element}</p>
         </Link>
-        <Link className='sign__planet' to={`/planet/${activeSign.planet2}`}>
-          {activeSign.planet2}
+        <Link className='sign__link' to={`/modality/${activeSign.modality}`}>
+          <p>{activeSign.modality}</p>
         </Link>
-      </span>
+        <span className='sign__links-container'>
+          <Link className='sign__link' to={`/planet/${activeSign.planet}`}>
+            {activeSign.planet}
+          </Link>
+          <Link className='sign__link' to={`/planet/${activeSign.planet2}`}>
+            {activeSign.planet2}
+          </Link>
+        </span>
+      </div>
       <img className='sign__img' src={activeSign.img} />
     </section>
   );

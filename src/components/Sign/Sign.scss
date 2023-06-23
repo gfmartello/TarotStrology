@@ -3,6 +3,13 @@
 .sign {
   padding-left: 5%;
   padding-right: 5%;
+  @include tablet {
+    display: flex;
+  }
+  &__container {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
 
   &__links-container {
     display: flex;
@@ -10,16 +17,7 @@
     margin-bottom: 1rem;
   }
 
-  &__element {
-    color: black;
-    text-decoration: none;
-
-    &:hover {
-      color: indigo;
-    }
-  }
-
-  &__planet {
+  &__link {
     color: black;
     text-decoration: none;
 
