@@ -29,10 +29,10 @@ const Card = () => {
         <Link className='card__link' to={`/sign/${activeCard.sign}`}>
           <p>{activeCard.sign}</p>
         </Link>
-        <p>{activeCard.category}</p>
         <Link className='card__link' to={`/element/${activeCard.element}`}>
           <p>{activeCard.element}</p>
         </Link>
+        <p>{activeCard.category}</p>
       </div>
     </section>
   );

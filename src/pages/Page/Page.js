@@ -48,10 +48,10 @@ const Page = () => {
                 <p>{randomCard.sign}</p>
               </div>
             </Link>
-            <p>{randomCard.category}</p>
             <Link className='main__card--link' to={`/element/${randomCard.element}`}>
               <p>{randomCard.element}</p>
             </Link>
+            <p>{randomCard.category}</p>
           </div>
         </div>
       </article>
