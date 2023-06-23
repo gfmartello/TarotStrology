@@ -3,12 +3,25 @@
 .sign {
   padding-left: 5%;
   padding-right: 5%;
+
+  &__links-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+  }
+
   &__planet {
     color: black;
     text-decoration: none;
 
     &:hover {
       color: indigo;
+    }
+  }
+
+  &__img {
+    @include tablet {
+      width: 35vw;
     }
   }
 }

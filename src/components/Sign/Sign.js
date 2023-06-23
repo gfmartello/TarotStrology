@@ -16,15 +16,15 @@ const Sign = () => {
     <section className='sign'>
       <h1>{activeSign.sign}</h1>
       <p>{activeSign.description}</p>
-      <span>
+      <span className='sign__links-container'>
         <Link className='sign__planet' to={`/planet/${activeSign.planet}`}>
           {activeSign.planet}
         </Link>
-        <br />
         <Link className='sign__planet' to={`/planet/${activeSign.planet2}`}>
           {activeSign.planet2}
         </Link>
       </span>
+      <img className='sign__img' src={activeSign.img} />
     </section>
   );
 };
