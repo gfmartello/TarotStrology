@@ -11,8 +11,6 @@ import MyCard from './pages/MyCard/MyCard';
 
 // what to improve on:
 
-// how to put image in browser tab in react?
-// how to put title of page in browser tab in react?
 // deploying on netlify
 
 function App() {

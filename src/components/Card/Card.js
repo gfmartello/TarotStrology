@@ -23,15 +23,15 @@ const Card = () => {
         <h1 className='card__title'>{activeCard.card}</h1>
         <p>{activeCard.description}</p>
         <span>{activeCard.indepth}</span>
-        <p>{activeCard.category}</p>
-        <Link className='card__link' to={`/element/${activeCard.element}`}>
-          <p>{activeCard.element}</p>
-        </Link>
         <Link className='card__link' to={`/planet/${activeCard.planet}`}>
           <p>{activeCard.planet}</p>
         </Link>
         <Link className='card__link' to={`/sign/${activeCard.sign}`}>
           <p>{activeCard.sign}</p>
+        </Link>
+        <p>{activeCard.category}</p>
+        <Link className='card__link' to={`/element/${activeCard.element}`}>
+          <p>{activeCard.element}</p>
         </Link>
       </div>
     </section>

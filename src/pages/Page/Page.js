@@ -38,10 +38,6 @@ const Page = () => {
               <h1>{randomCard.card}</h1>
             </Link>
             <p>{randomCard.description}</p>
-            <p>{randomCard.category}</p>
-            <Link className='main__card--link' to={`/element/${randomCard.element}`}>
-              <p>{randomCard.element}</p>
-            </Link>
             <Link className='main__card--link' to={`/planet/${randomCard.planet}`}>
               <div>
                 <p>{randomCard.planet}</p>
@@ -51,6 +47,10 @@ const Page = () => {
               <div>
                 <p>{randomCard.sign}</p>
               </div>
+            </Link>
+            <p>{randomCard.category}</p>
+            <Link className='main__card--link' to={`/element/${randomCard.element}`}>
+              <p>{randomCard.element}</p>
             </Link>
           </div>
         </div>
