@@ -38,7 +38,7 @@ const MyCard = () => {
       </form>
       {
         birthdayCard.length ? birthdayCard.map(item =>
-          <article className='my-card__results'>
+          <article className='my-card__results' key={item.key}>
             <Link className='my-card__link' to={`/card/${item.key}`}>
               <img className='my-card__img' src={item.img} />
             </Link>

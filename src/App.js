@@ -10,14 +10,10 @@ import Modality from './components/Modality/Modality';
 import MyCard from './pages/MyCard/MyCard';
 
 // what to improve on:
-// add modalities page
 
 // how to put image in browser tab in react?
 // how to put title of page in browser tab in react?
 // deploying on netlify
-
-// which items in header component need a key element to stop error from popping up in console?
-// which items in my-card component need a key element to stop error from popping up in console?
 
 function App() {
   function InfoPage () {

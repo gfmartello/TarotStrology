@@ -3,7 +3,6 @@ import './Header.scss'
 import cards from '../../data/cards.json'
 import planets from '../../data/planets.json'
 import signs from '../../data/signs.json'
-// import elements from '../../data/elements.json'
 import { useState } from 'react'
 import { Link } from 'react-router-dom';
 
@@ -27,9 +26,8 @@ const Header = () => {
   }
 
   const cardsList = cards.map((card) => (
-    <Link className='nav__list-item' to={`/card/${card.key}`}>
+    <Link className='nav__list-item' to={`/card/${card.key}`} key={card.card}>
       <li
-        key={card.card}
         className='nav__list-item'>
         {card.card}
       </li>
@@ -37,9 +35,8 @@ const Header = () => {
   ))
 
   const planetsList = planets.map((planet) => (
-    <Link className='nav__list-item' to={`/planet/${planet.planet.split(' ')[0]}`}>
+    <Link className='nav__list-item' to={`/planet/${planet.planet.split(' ')[0]}`} key={planet.planet}>
       <li
-        key={planet.planet}
         className='nav__list-item'>
         {planet.planet}
       </li>
@@ -47,9 +44,8 @@ const Header = () => {
   ))
 
   const signsList = signs.map((sign) => (
-    <Link className='nav__list-item' to={`/sign/${sign.sign.split(' ')[0]}`}>
+    <Link className='nav__list-item' to={`/sign/${sign.sign.split(' ')[0]}`} key={sign.sign}>
       <li
-        key={sign.sign}
         className='nav__list-item'>
         {sign.sign}
       </li>

@@ -9,6 +9,9 @@
   &__container {
     padding-left: 5%;
     padding-right: 5%;
+    @include tablet {
+      width: 45vw;
+    }
   }
 
   &__links-container {
@@ -28,7 +31,7 @@
 
   &__img {
     @include tablet {
-      width: 35vw;
+      height: 50vh;
     }
   }
 }
