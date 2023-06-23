@@ -14,7 +14,6 @@ import MyCard from './pages/MyCard/MyCard';
 // which items in header component need a key element to stop error from popping up in console?
 // which items in my-card component need a key element to stop error from popping up in console?
 // add element categories to json
-// add pictures and in-depth descriptions to planet and sign pages and style them better
 
 function App() {
   function InfoPage () {

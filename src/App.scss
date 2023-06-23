@@ -1,3 +1,9 @@
+@use './styles/partials/mixins' as *;
+
+body {
+  @include Montserrat;
+}
+
 .App {
   text-align: center;
 }
