@@ -20,7 +20,9 @@
 
   &__img {
     height: 50vh;
-    margin-bottom: 5%;
+    @include tablet {
+      margin-bottom: 5%;
+    }
   }
 
   &__info {
