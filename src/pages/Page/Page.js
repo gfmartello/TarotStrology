@@ -29,7 +29,9 @@ const Page = () => {
       <article className={isActive ? 'main__card--active' : ''}>
         <div className='main__card'>
           <div className='main__card--column1'>
-            <img className='main__card-img' src={randomCard.img} />
+            <Link className='main__card--title' to={`/card/${randomCard.key}`}>
+              <img className='main__card-img' src={randomCard.img} />
+            </Link>
           </div>
           <div className='main__card--column2'>
             <Link className='main__card--title' to={`/card/${randomCard.key}`}>

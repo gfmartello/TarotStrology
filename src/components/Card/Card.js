@@ -16,8 +16,9 @@ const Card = () => {
   return (
     <section className='card'>
       <div className='card__img-container'>
-        <img className='card__img' src={activeCard.img} />
+          <img className='card__img' src={activeCard.img} />
       </div>
+
       <div className='card__info'>
         <h1 className='card__title'>{activeCard.card}</h1>
         <p>{activeCard.description}</p>

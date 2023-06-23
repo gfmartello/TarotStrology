@@ -39,7 +39,9 @@ const MyCard = () => {
       {
         birthdayCard.length ? birthdayCard.map(item =>
           <article className='my-card__results'>
-            <img className='my-card__img' src={item.img} />
+            <Link className='my-card__title' to={`/card/${item.key}`}>
+              <img className='my-card__img' src={item.img} />
+            </Link>
             <div className='my-card__info'>
               <Link className='my-card__title' to={`/card/${item.key}`}>
                 <h3>{item.card}</h3>
