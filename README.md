@@ -14,3 +14,7 @@ A site that provides tarot readings, and allows users to navigate through astrol
 
 ## 🚀 About Me
 I'm a front-end developer, recent graduate from BrainStation with a diploma in Software Engineering.
+
+## 🌐 Deployment
+
+This site is deployed at https://tarotstrology.netlify.app/
