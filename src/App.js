@@ -9,12 +9,8 @@ import Element from './components/Element/Element';
 import Modality from './components/Modality/Modality';
 import MyCard from './pages/MyCard/MyCard';
 
-// what to improve on:
-
-// deploying on netlify
-
 function App() {
-  function InfoPage () {
+  function InfoPage() {
     let { userId } = useParams()
   }
 
@@ -33,6 +29,8 @@ function App() {
           <Route path='/mycard' element={<MyCard />} />
         </Routes>
       </BrowserRouter>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2668804328682177"
+        crossorigin="anonymous"></script>
     </div>
   );
 }
