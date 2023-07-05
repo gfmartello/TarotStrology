@@ -29,8 +29,6 @@ function App() {
           <Route path='/mycard' element={<MyCard />} />
         </Routes>
       </BrowserRouter>
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2668804328682177"
-        crossorigin="anonymous"></script>
     </div>
   );
 }
