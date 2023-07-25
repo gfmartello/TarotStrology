@@ -90,6 +90,9 @@ const Header = () => {
       <Link className='nav__title' to='/mycard'>
         <h3 className='nav__title'>WHAT'S MY CARD?</h3>
       </Link>
+      <Link className='nav__title' to='/consultations'>
+        <h3>CONSULTATIONS</h3>
+      </Link>
     </header>
   );
 };

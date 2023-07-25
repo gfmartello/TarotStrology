@@ -8,6 +8,7 @@ import Sign from './components/Sign/Sign';
 import Element from './components/Element/Element';
 import Modality from './components/Modality/Modality';
 import MyCard from './pages/MyCard/MyCard';
+import Consultations from './pages/Consultations/Consultations';
 
 function App() {
   function InfoPage() {
@@ -27,6 +28,7 @@ function App() {
           <Route path='/element/:elementId' element={<Element />} />
           <Route path='/modality/:modalityId' element={<Modality />} />
           <Route path='/mycard' element={<MyCard />} />
+          <Route path='/consultations' element={<Consultations />} />
         </Routes>
       </BrowserRouter>
     </div>
