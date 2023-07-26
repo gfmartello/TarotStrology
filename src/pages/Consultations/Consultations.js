@@ -8,7 +8,7 @@ const Consultations = () => {
       <p>To get a consultation using both tarot and astrology, <a href='mailto:gf.martello@gmail.com'>please send an email</a> with the following information collected from your birth certificate or from a parent/guardian.<br /> <br />
         <span className='consultations__blurb--special'>You must include:</span></p>
       <ul className='consultations__list'>
-        <li>Your birthday</li>
+        <li>Your birthday (month, day, and year)</li>
         <li>Your exact birth time</li>
         <li>Your city of birth</li>
       </ul>
