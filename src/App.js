@@ -9,6 +9,7 @@ import Element from './components/Element/Element';
 import Modality from './components/Modality/Modality';
 import MyCard from './pages/MyCard/MyCard';
 import Consultations from './pages/Consultations/Consultations';
+import Footer from './components/Footer/Footer';
 
 function App() {
   function InfoPage() {
@@ -30,6 +31,7 @@ function App() {
           <Route path='/mycard' element={<MyCard />} />
           <Route path='/consultations' element={<Consultations />} />
         </Routes>
+        <Footer />
       </BrowserRouter>
     </div>
   );

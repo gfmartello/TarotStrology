@@ -1,0 +1,10 @@
+@use '../../styles/partials/mixins' as *;
+
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 3%;
+  &__logo {
+    height: 5vh;
+  }
+}
