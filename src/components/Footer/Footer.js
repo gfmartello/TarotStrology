@@ -4,10 +4,10 @@ import './Footer.scss'
 const Footer = () => {
   return (
     <footer className='footer'>
-      <a href='https://www.threads.net/@tarot_strology'>
+      <a href='https://www.threads.net/@tarot_strology' target="_blank">
         <img className='footer__logo' src='https://seeklogo.com/images/T/threads-logo-E9BA734BF6-seeklogo.com.png?v=638252100960000000' alt='threads logo' />
       </a>
-      <a href='https://www.instagram.com/tarot_strology/'>
+      <a href='https://www.instagram.com/tarot_strology/' target="_blank">
         <img className='footer__logo' src='https://freelogopng.com/images/all_img/1658586823instagram-logo-transparent.png' alt='instagram logo' />
       </a>
       <a href='mailto:tarotstrology.consultations@gmail.com'>
