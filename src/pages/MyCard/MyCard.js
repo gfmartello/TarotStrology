@@ -50,6 +50,9 @@ const MyCard = () => {
               <Link className='my-card__link' to={`/planet/${item.planet}`}>
                 <p>{item.planet}</p>
               </Link>
+              <Link className='my-card__link' to={`/sign/${item.sign}`}>
+                <p>{item.sign}</p>
+              </Link>
               <Link className='my-card__link' to={`/element/${item.element}`}>
                 <p>{item.element}</p>
               </Link>
