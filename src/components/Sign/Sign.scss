@@ -30,8 +30,8 @@
   }
 
   &__img {
-    @include tablet {
+    // @include tablet {
       height: 50vh;
-    }
+    // }
   }
 }
