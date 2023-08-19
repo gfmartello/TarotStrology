@@ -16,7 +16,7 @@ const Consultations = () => {
       <h2>Methods/Modalities</h2>
       <p>Consultations are done using Western Tropical Astrology and Whole Sign Houses, as well as traditional Decans and their corresponding tarot cards and planetary significations. Physical tarot cards can also be pulled for clarification. <br />
         <h1>Pricing</h1>
-        Consultations are $75 per session, but flexible for those who need an adjustment.
+        Consultations are $75 per session, <span className='consultations__blurb--special'>but free for those who need it.</span>
       </p>
     </section>
   );

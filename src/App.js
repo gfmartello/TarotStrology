@@ -9,7 +9,6 @@ import Element from './components/Element/Element';
 import Modality from './components/Modality/Modality';
 import MyCard from './pages/MyCard/MyCard';
 import Consultations from './pages/Consultations/Consultations';
-import ConsultForm from './pages/ConsultForm/ConsultForm'
 import Footer from './components/Footer/Footer';
 
 function App() {
@@ -31,7 +30,6 @@ function App() {
           <Route path='/modality/:modalityId' element={<Modality />} />
           <Route path='/mycard' element={<MyCard />} />
           <Route path='/consultations' element={<Consultations />} />
-          <Route path='/consultform' element={<ConsultForm />} />
         </Routes>
         <Footer />
       </BrowserRouter>
